@@ -1,5 +1,14 @@
 #!/bin/bash
 
+function correct {
+    FILENAME=$1
+    DST_DIR=$2
+
+    if [ ! -f "locales/corrections/${DST_DIR}/${FILENAME}" ]; then
+        return
+    fi
+}
+
 function translate {
     SRC_DIR=$1
     FILENAME=$2
@@ -16,6 +25,8 @@ function translate {
 
     mkdir -p "locales/${DST_DIR}"
     cat ${SRC_FILE} | pospell -n - -f -p ${TRANSLATE_CMD} > ${DST_FILE}
+
+    correct ${FILENAME} ${DST_DIR}
 }
 
 TEMPLATE_DIR="locales/templates"
