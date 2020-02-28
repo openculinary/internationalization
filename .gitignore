@@ -1,0 +1,3 @@
+*.lock
+*.swp
+node_modules
