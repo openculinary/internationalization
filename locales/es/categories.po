@@ -1,0 +1,20 @@
+msgid "bakery"
+msgstr "Panadería"
+
+msgid "dairy"
+msgstr "Lácteo"
+
+msgid "dry_goods"
+msgstr "Bienes secos"
+
+msgid "fruit_and_veg"
+msgstr "Vegetales & de fruta"
+
+msgid "meat_and_deli"
+msgstr "Charcutería & de carne"
+
+msgid "null"
+msgstr "Otro"
+
+msgid "oil_and_vinegar_and_condiments"
+msgstr "Vinagre de aceite y Condimentos"
