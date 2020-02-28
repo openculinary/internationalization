@@ -4,9 +4,14 @@ function correct {
     FILENAME=$1
     DST_DIR=$2
 
+    TEMPLATE_FILE="locales/${DST_DIR}/${FILENAME}"
+    CORRECTIONS_FILE="locales/corrections/${DST_DIR}/${FILENAME}"
+
     if [ ! -f "locales/corrections/${DST_DIR}/${FILENAME}" ]; then
         return
     fi
+
+    pomerge -t ${TEMPLATE_FILE} -i ${CORRECTIONS_FILE} -o ${TEMPLATE_FILE}
 }
 
 function translate {
