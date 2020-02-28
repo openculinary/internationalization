@@ -1,0 +1,20 @@
+msgid "bakery"
+msgstr "Bakery"
+
+msgid "dairy"
+msgstr "Dairy"
+
+msgid "dry_goods"
+msgstr "Dry Goods"
+
+msgid "fruit_and_veg"
+msgstr "Fruit & Vegetables"
+
+msgid "meat_and_deli"
+msgstr "Meat & Delicatessen"
+
+msgid "null"
+msgstr "Other"
+
+msgid "oil_and_vinegar_and_condiments"
+msgstr "Oil Vinegar and Condiments"
