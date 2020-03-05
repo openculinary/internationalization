@@ -1,0 +1,11 @@
+msgid "search"
+msgstr "Recipe Search"
+
+msgid "starred"
+msgstr "Starred Recipes"
+
+msgid "meal-planner"
+msgstr "Meal Planner"
+
+msgid "shopping-list"
+msgstr "Shopping List"

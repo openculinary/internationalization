@@ -1,0 +1,11 @@
+msgid "search"
+msgstr "Ricerca di ricetta"
+
+msgid "starred"
+msgstr "Protagonizó Ricette"
+
+msgid "meal-planner"
+msgstr "Cibo Planner"
+
+msgid "shopping-list"
+msgstr "Elenco di spesa"

@@ -1,0 +1,11 @@
+msgid "search"
+msgstr "Recherche de recette"
+
+msgid "starred"
+msgstr "Il a joué le rôle principal des Recettes"
+
+msgid "meal-planner"
+msgstr "Repas Planner"
+
+msgid "shopping-list"
+msgstr "Liste d'achat"
