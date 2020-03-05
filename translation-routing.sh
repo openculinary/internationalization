@@ -35,7 +35,7 @@ function translate {
 }
 
 TEMPLATE_DIR="locales/templates"
-for TEMPLATE_FILE in "${TEMPLATE_DIR}/*.po"
+for TEMPLATE_FILE in ${TEMPLATE_DIR}/*.po
 do
     FILENAME=`basename ${TEMPLATE_FILE} ${TEMPLATE_DIR}`
 
