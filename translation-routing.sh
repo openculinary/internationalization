@@ -23,7 +23,7 @@ function translate {
     SRC_FILE="locales/${SRC_DIR}/${FILENAME}"
     DST_FILE="locales/${DST_DIR}/${FILENAME}"
 
-    TRANSLATE_CMD="apertium -- ${LANG_PAIR} -u"
+    TRANSLATE_CMD="apertium -- ${LANG_PAIR} -f html -u"
     if [ -z "${LANG_PAIR}" ]; then
         TRANSLATE_CMD="cat --"
     fi

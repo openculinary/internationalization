@@ -2,10 +2,10 @@ msgid "search"
 msgstr "Recherche de recette"
 
 msgid "starred"
-msgstr "Il a joué le rôle principal des Recettes"
+msgstr "a Jou&eacute; le r&ocirc;le principal Mang&eacute;e"
 
 msgid "meal-planner"
-msgstr "Repas Planner"
+msgstr "de Recettes Planner"
 
 msgid "shopping-list"
-msgstr "Liste d'achat"
+msgstr "Liste d'Achat"

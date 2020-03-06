@@ -2,19 +2,19 @@ msgid "bakery"
 msgstr "Boulangerie"
 
 msgid "dairy"
-msgstr "Lácteo"
+msgstr "Fruit"
 
 msgid "dry_goods"
-msgstr "Biens secs"
+msgstr "de Biens S&egrave;che"
 
 msgid "fruit_and_veg"
-msgstr "Végétaux & de fruit"
+msgstr "L&aacute;ctea & Charcuter&iacute;a"
 
 msgid "meat_and_deli"
-msgstr "Charcutería & De viande"
+msgstr "de Viande & des V&eacute;g&eacute;taux"
 
 msgid "null"
-msgstr "Autrui"
+msgstr "Un autre"
 
 msgid "oil_and_vinegar_and_condiments"
-msgstr "Vinaigre d'huile et Condimentos"
+msgstr "Vinaigre d'Huile et Condimentos"

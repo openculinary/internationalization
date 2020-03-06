@@ -2,10 +2,10 @@ msgid "search"
 msgstr "Ricerca di ricetta"
 
 msgid "starred"
-msgstr "Protagonizó Ricette"
+msgstr "Protagoniz&oacute; Cibo"
 
 msgid "meal-planner"
-msgstr "Cibo Planner"
+msgstr "di Ricette Planner"
 
 msgid "shopping-list"
-msgstr "Elenco di spesa"
+msgstr "Elenco di Spesa"
