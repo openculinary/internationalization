@@ -1,0 +1,17 @@
+msgid "prompt-welcome"
+msgstr "Welcome to <strong><em>RecipeRadar</em></strong>, the free recipe search engine and meal planner."
+
+msgid "prompt-get-started"
+msgstr "To get started, enter the ingredients you have available."
+
+msgid "prompt-additional-options"
+msgstr "Additional search options"
+
+msgid "prompt-exclude"
+msgstr "Are there any ingredients you would <strong>not</strong> like to cook with?"
+
+msgid "prompt-equipment"
+msgstr "Is there any kitchen equipment you'd like to use?"
+
+msgid "prompt-search-button"
+msgstr "Find recipes!"
