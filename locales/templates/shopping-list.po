@@ -1,0 +1,2 @@
+msgid "hint-tap"
+msgstr "Hint: Tap on ingredients to mark them as found"

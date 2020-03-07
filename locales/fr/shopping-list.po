@@ -1,0 +1,2 @@
+msgid "hint-tap"
+msgstr "Piste: Robinet en des ingr&eacute;dients pour leur marquer tellement trouv&eacute;s"

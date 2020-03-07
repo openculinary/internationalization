@@ -1,0 +1,2 @@
+msgid "hint-tap"
+msgstr "Pista: Grifo en ingredientes para marcarles tan encontrados"
