@@ -1,0 +1,2 @@
+msgid "source-code"
+msgstr "<a href='https://www.github.com/openculinary'>Code de source</a> disponible je descends l'AGPL"
