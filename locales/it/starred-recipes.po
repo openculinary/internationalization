@@ -1,0 +1,5 @@
+msgid "empty-recipes"
+msgstr "Non hai qualunque protagoniz&oacute; ricette nel momento."
+
+msgid "feature-introduction"
+msgstr "Ricette  protagonizas in <a href='#search'>risultati</a> di ricerca appariranno qui."

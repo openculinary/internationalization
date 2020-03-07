@@ -1,0 +1,5 @@
+msgid "empty-recipes"
+msgstr "You don't have any starred recipes at the moment."
+
+msgid "feature-introduction"
+msgstr "Recipes you star in <a href='#search'>search</a> results will appear here."
