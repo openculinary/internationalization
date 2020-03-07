@@ -1,8 +1,10 @@
 msgid "prompt-welcome"
-msgstr "Benvenuto a RecipeRadar <strong><em></em></strong>, il motore di ricerca di ricetta libera e cibo planner."
+msgstr ""
+"Benvenuto a <strong><em>RecipeRadar</em></strong>, il ricercatore di ricetta "
+"libera e cibo planner."
 
 msgid "prompt-get-started"
-msgstr "Partorisca iniziare, introdurre gli ingredienti  hai disponibile."
+msgstr "Per iniziare, introdurre gli ingredienti hai disponibile."
 
 msgid "prompt-additional-options"
 msgstr "Opzioni di ricerca aggiuntiva"
