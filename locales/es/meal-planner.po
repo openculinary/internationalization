@@ -1,0 +1,2 @@
+msgid "hint-drag"
+msgstr "Pista: Arrastra recetas para planificarles durante la semana"

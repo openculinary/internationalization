@@ -1,0 +1,2 @@
+msgid "hint-drag"
+msgstr "Hint: Drag recipes to schedule them during the week"

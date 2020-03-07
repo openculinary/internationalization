@@ -1,0 +1,2 @@
+msgid "hint-drag"
+msgstr "Piste: il Tra&icirc;ne des recettes pour leur planifier pendant la semaine"
