@@ -12,10 +12,10 @@ msgid "search"
 msgstr "B&uacute;squeda de receta"
 
 msgid "starred"
-msgstr "Protagoniz&oacute; Comida"
+msgstr "Protagoniz&oacute; Recetas"
 
 msgid "meal-planner"
-msgstr "de Recetas Planner"
+msgstr "Comida Planner"
 
 msgid "shopping-list"
-msgstr "Lista de Compra"
+msgstr "Lista de compra"

@@ -20,7 +20,7 @@ msgid "prompt-additional-options"
 msgstr "Opzioni di ricerca aggiuntiva"
 
 msgid "prompt-exclude"
-msgstr "Sono l&igrave; qualsiasi ingredienti non <strong>ti piacerebbe</strong> cucinare con?"
+msgstr "&Egrave; l&igrave; qualsiasi ingredienti non <strong>ti piacerebbe</strong> cucinare con?"
 
 msgid "prompt-equipment"
 msgstr "&Egrave; l&igrave; qualsiasi attrezzatura di cucina ti piacerebbe utilizzare?"
