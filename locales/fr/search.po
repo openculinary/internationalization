@@ -14,16 +14,16 @@ msgstr ""
 "recherche de recette libre et repas planner."
 
 msgid "prompt-get-started"
-msgstr "Pour commencer, introduire les ingr&eacute;dients  tu as disponible."
+msgstr "Pour commencer, introduire les ingrédients  tu as disponible."
 
 msgid "prompt-additional-options"
 msgstr "Options de recherche additionnelle"
 
 msgid "prompt-exclude"
-msgstr "Il est l&agrave; n'importe quels ingr&eacute;dients il ne te <strong>plairait pas</strong> cuisiner avec?"
+msgstr "Il est là n'importe quels ingrédients il ne te <strong>plairait pas</strong> cuisiner avec?"
 
 msgid "prompt-equipment"
-msgstr "Il est l&agrave; n'importe quel &eacute;quipement de cuisine te plairait utiliser?"
+msgstr "Il est là n'importe quel équipement de cuisine te plairait utiliser?"
 
 msgid "prompt-search-button"
 msgstr "Trouver des recettes!"

@@ -9,4 +9,4 @@ msgstr ""
 "PO-Revision-Date: 2020-03-09T14:59:54.791Z\n"
 
 msgid "hint-tap"
-msgstr "Indizio: Rubinetto in ingredienti partorisca marcargli cos&igrave; ritrovati"
+msgstr "Indizio: Rubinetto in ingredienti partorisca marcargli così ritrovati"

@@ -9,7 +9,7 @@ msgstr ""
 "PO-Revision-Date: 2020-03-09T14:59:54.791Z\n"
 
 msgid "empty-recipes"
-msgstr "tu n'as pas n'importe qui il a jou&eacute; le r&ocirc;le principal des recettes dans le moment."
+msgstr "tu n'as pas n'importe qui il a joué le rôle principal des recettes dans le moment."
 
 msgid "feature-introduction"
-msgstr "Recettes  tu joues le r&ocirc;le principal en <a href='#search'>des r&eacute;sultats</a> de recherche appara&icirc;tront ici."
+msgstr "Recettes  tu joues le rôle principal en <a href='#search'>des résultats</a> de recherche apparaîtront ici."

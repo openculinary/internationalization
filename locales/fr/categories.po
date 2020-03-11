@@ -12,16 +12,16 @@ msgid "bakery"
 msgstr "Boulangerie"
 
 msgid "dairy"
-msgstr "L&aacute;cteo"
+msgstr "Lácteo"
 
 msgid "dry_goods"
 msgstr "Biens secs"
 
 msgid "fruit_and_veg"
-msgstr "V&eacute;g&eacute;taux & de fruit"
+msgstr "Végétaux & de fruit"
 
 msgid "meat_and_deli"
-msgstr "Charcuter&iacute;a & De viande"
+msgstr "Charcutería & De viande"
 
 msgid "null"
 msgstr "Autrui"

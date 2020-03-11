@@ -17,13 +17,13 @@ msgid "prompt-get-started"
 msgstr "Para empezar, introducir los ingredientes  tienes disponible."
 
 msgid "prompt-additional-options"
-msgstr "Opciones de b&uacute;squeda adicional"
+msgstr "Opciones de búsqueda adicional"
 
 msgid "prompt-exclude"
-msgstr "Es all&iacute; cualesquier ingredientes no <strong>te gustar&iacute;a</strong> cocinar con?"
+msgstr "Es allí cualesquier ingredientes no <strong>te gustaría</strong> cocinar con?"
 
 msgid "prompt-equipment"
-msgstr "Es all&iacute; cualquier equipamiento de cocina te gustar&iacute;a utilizar?"
+msgstr "Es allí cualquier equipamiento de cocina te gustaría utilizar?"
 
 msgid "prompt-search-button"
 msgstr "Encuentra recetas!"

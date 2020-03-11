@@ -9,10 +9,10 @@ msgstr ""
 "PO-Revision-Date: 2020-03-09T14:59:54.790Z\n"
 
 msgid "bakery"
-msgstr "Panader&iacute;a"
+msgstr "Panadería"
 
 msgid "dairy"
-msgstr "L&aacute;cteo"
+msgstr "Lácteo"
 
 msgid "dry_goods"
 msgstr "Bienes secos"
@@ -21,7 +21,7 @@ msgid "fruit_and_veg"
 msgstr "Vegetales & de fruta"
 
 msgid "meat_and_deli"
-msgstr "Charcuter&iacute;a & de carne"
+msgstr "Charcutería & de carne"
 
 msgid "null"
 msgstr "Otro"

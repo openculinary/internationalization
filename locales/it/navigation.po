@@ -12,7 +12,7 @@ msgid "search"
 msgstr "Ricerca di ricetta"
 
 msgid "starred"
-msgstr "Protagoniz&oacute; Ricette"
+msgstr "Protagonizó Ricette"
 
 msgid "meal-planner"
 msgstr "Cibo Planner"

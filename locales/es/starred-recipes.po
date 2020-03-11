@@ -9,7 +9,7 @@ msgstr ""
 "PO-Revision-Date: 2020-03-09T14:59:54.791Z\n"
 
 msgid "empty-recipes"
-msgstr "No tienes cualquiera protagoniz&oacute; recetas en el momento."
+msgstr "No tienes cualquiera protagonizó recetas en el momento."
 
 msgid "feature-introduction"
-msgstr "Recetas  protagonizas en <a href='#search'>resultados</a> de b&uacute;squeda aparecer&aacute;n aqu&iacute;."
+msgstr "Recetas  protagonizas en <a href='#search'>resultados</a> de búsqueda aparecerán aquí."
