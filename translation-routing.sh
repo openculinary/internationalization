@@ -28,8 +28,13 @@ function translate {
         TRANSLATE_CMD="cat --"
     fi
 
+    # Workaround for https://github.com/openculinary/internationalization/issues/5
+    INSERT_TAG_OPEN='s/^msgstr/<\nmsgstr/g'
+    REMOVE_TAG_OPEN='/^<$/d'
+
+
     mkdir -p "locales/${DST_DIR}"
-    cat ${SRC_FILE} | pospell -n - -f -p ${TRANSLATE_CMD} > ${DST_FILE}
+    cat ${SRC_FILE} | sed -e ${INSERT_TAG_OPEN} | pospell -n - -f -p ${TRANSLATE_CMD} | sed -e ${REMOVE_TAG_OPEN} > ${DST_FILE}
 
     correct ${FILENAME} ${DST_DIR}
 }
