@@ -2,4 +2,4 @@ msgid "prompt-welcome"
 msgstr "Bienvenido a <strong><em>RecipeRadar</em></strong>, el buscador de receta libre y comida planner."
 
 msgid "prompt-exclude"
-msgstr "Es allí cualesquier ingredientes que <strong>no es</strong> tener disponible?"
+msgstr "¿Hay algún ingrediente que no esté disponible?"
