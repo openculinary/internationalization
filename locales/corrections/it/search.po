@@ -3,3 +3,6 @@ msgstr "Benvenuto a <strong><em>RecipeRadar</em></strong>, il ricercatore di ric
 
 msgid "prompt-get-started"
 msgstr "Per iniziare, introdurre gli ingredienti hai disponibile."
+
+msgid "prompt-exclude"
+msgstr "Sono l&igrave; qualsiasi ingredienti che non <strong>non &egrave;</strong> avere disponibile?"

@@ -4,13 +4,15 @@ msgstr ""
 "libera e cibo planner."
 
 msgid "prompt-get-started"
-msgstr "Per iniziare, introdurre gli ingredienti hai disponibile."
+msgstr "Partorisca iniziare, introdurre gli ingredienti  hai vicino."
 
 msgid "prompt-additional-options"
 msgstr "Opzioni di ricerca aggiuntiva"
 
 msgid "prompt-exclude"
-msgstr "Sono l&igrave; qualsiasi ingredienti non <strong>ti piacerebbe</strong> cucinare con?"
+msgstr ""
+"Sono l&igrave; qualsiasi ingredienti che non <strong>non &egrave;</strong> "
+"avere disponibile?"
 
 msgid "prompt-equipment"
 msgstr "&Egrave; l&igrave; qualsiasi attrezzatura di cucina ti piacerebbe utilizzare?"
