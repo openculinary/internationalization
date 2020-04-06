@@ -23,13 +23,18 @@ function translate {
     SRC_FILE="locales/${SRC_DIR}/${FILENAME}"
     DST_FILE="locales/${DST_DIR}/${FILENAME}"
 
-    TRANSLATE_CMD="apertium -- ${LANG_PAIR} -f html -u"
+    TRANSLATE_CMD="apertium -- ${LANG_PAIR} -f html-noent -u"
     if [ -z "${LANG_PAIR}" ]; then
         TRANSLATE_CMD="cat --"
     fi
 
+    # Workaround for https://github.com/openculinary/internationalization/issues/5
+    INSERT_TAG_OPEN='s/^msgstr/<\nmsgstr/g'
+    REMOVE_TAG_OPEN='/^<$/d'
+
+
     mkdir -p "locales/${DST_DIR}"
-    cat ${SRC_FILE} | pospell -n - -f -p ${TRANSLATE_CMD} > ${DST_FILE}
+    cat ${SRC_FILE} | sed -e ${INSERT_TAG_OPEN} | pospell -n - -f -p ${TRANSLATE_CMD} | sed -e ${REMOVE_TAG_OPEN} > ${DST_FILE}
 
     correct ${FILENAME} ${DST_DIR}
 }

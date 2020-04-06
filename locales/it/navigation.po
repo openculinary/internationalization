@@ -1,11 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2020-03-09T14:59:54.791Z\n"
+"PO-Revision-Date: 2020-03-09T14:59:54.791Z\n"
+
 msgid "search"
 msgstr "Ricerca di ricetta"
 
 msgid "starred"
-msgstr "Protagoniz&oacute; Cibo"
+msgstr "Protagonizó Ricette"
 
 msgid "meal-planner"
-msgstr "di Ricette Planner"
+msgstr "Cibo Planner"
 
 msgid "shopping-list"
-msgstr "Elenco di Spesa"
+msgstr "Elenco di spesa"

@@ -1,3 +1,13 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2020-03-09T14:59:54.791Z\n"
+"PO-Revision-Date: 2020-03-09T14:59:54.791Z\n"
+
 msgid "prompt-welcome"
 msgstr ""
 "Bienvenido a <strong><em>RecipeRadar</em></strong>, el buscador de receta "
@@ -7,7 +17,7 @@ msgid "prompt-get-started"
 msgstr "Para empezar, introducir los ingredientes  tienes cercano."
 
 msgid "prompt-additional-options"
-msgstr "Opciones de b&uacute;squeda adicional"
+msgstr "Opciones de búsqueda adicional"
 
 msgid "prompt-exclude"
 msgstr ""
@@ -15,7 +25,7 @@ msgstr ""
 "disponible?"
 
 msgid "prompt-equipment"
-msgstr "Es all&iacute; cualquier equipamiento de cocina te gustar&iacute;a utilizar?"
+msgstr "Es allí cualquier equipamiento de cocina te gustaría utilizar?"
 
 msgid "prompt-search-button"
 msgstr "Encuentra recetas!"

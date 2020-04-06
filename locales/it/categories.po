@@ -1,20 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2020-03-09T14:59:54.790Z\n"
+"PO-Revision-Date: 2020-03-09T14:59:54.790Z\n"
+
 msgid "bakery"
-msgstr "Panader&iacute;a"
+msgstr "Panadería"
 
 msgid "dairy"
-msgstr "Frutta"
+msgstr "Latteo"
 
 msgid "dry_goods"
-msgstr "di Beni Asciuti"
+msgstr "Beni asciuti"
 
 msgid "fruit_and_veg"
-msgstr "Lattei & Charcuter&iacute;a"
+msgstr "Vegetali & di frutta"
 
 msgid "meat_and_deli"
-msgstr "di Carne & dei Vegetali"
+msgstr "Charcutería & di carne"
 
 msgid "null"
 msgstr "Altro"
 
 msgid "oil_and_vinegar_and_condiments"
-msgstr "Aceto di Olio e Condimenti"
+msgstr "Aceto di olio e Condimenti"
