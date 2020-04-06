@@ -14,13 +14,13 @@ msgstr ""
 "engine and meal planner."
 
 msgid "prompt-get-started"
-msgstr "You can ask us to find recipes for you based on your goals.  Please enter the ingredients you'd like to use in the form below."
+msgstr "To begin, enter the ingredients you have nearby."
 
 msgid "prompt-additional-options"
 msgstr "Additional search options"
 
 msgid "prompt-exclude"
-msgstr "Are there any ingredients you would <strong>not</strong> like to cook with?"
+msgstr "Are there any ingredients that are <strong>not</strong> available?"
 
 msgid "prompt-equipment"
 msgstr "Is there any kitchen equipment you'd like to use?"

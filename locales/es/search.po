@@ -14,13 +14,13 @@ msgstr ""
 "libre y comida planner."
 
 msgid "prompt-get-started"
-msgstr " Nos puedes preguntar para encontrar recetas para ti basado en vuestros objetivos.  Complacer introducir los ingredientes te gustaría utilizar en la forma abajo."
+msgstr "Para empezar, introducir los ingredientes  tienes cercano."
 
 msgid "prompt-additional-options"
 msgstr "Opciones de búsqueda adicional"
 
 msgid "prompt-exclude"
-msgstr "Es allí cualesquier ingredientes no <strong>te gustaría</strong> cocinar con?"
+msgstr "¿Hay algún ingrediente que no esté disponible?"
 
 msgid "prompt-equipment"
 msgstr "Es allí cualquier equipamiento de cocina te gustaría utilizar?"
