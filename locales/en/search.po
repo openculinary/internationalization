@@ -14,7 +14,7 @@ msgstr ""
 "engine and meal planner."
 
 msgid "prompt-get-started"
-msgstr "To get started, enter the ingredients you have nearby."
+msgstr "To begin, enter the ingredients you have nearby."
 
 msgid "prompt-additional-options"
 msgstr "Additional search options"
