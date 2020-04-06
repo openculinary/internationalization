@@ -20,7 +20,7 @@ msgid "prompt-additional-options"
 msgstr "Additional search options"
 
 msgid "prompt-exclude"
-msgstr "Are there any ingredients that are <strong>not</strong> have available?"
+msgstr "Are there any ingredients that are <strong>not</strong> available?"
 
 msgid "prompt-equipment"
 msgstr "Is there any kitchen equipment you'd like to use?"

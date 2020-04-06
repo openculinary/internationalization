@@ -20,7 +20,9 @@ msgid "prompt-additional-options"
 msgstr "Options de recherche additionnelle"
 
 msgid "prompt-exclude"
-msgstr "Il est là n'importe quels ingrédients qu'il n'est <strong></strong> pas avoir disponible?"
+msgstr ""
+"Il est là n'importe quels ingrédients qu'il <strong>n'est pas</strong> avoir "
+"disponible?"
 
 msgid "prompt-equipment"
 msgstr "Il est là n'importe quel équipement de cuisine te plairait utiliser?"
