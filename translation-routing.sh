@@ -34,7 +34,6 @@ function translate {
     INSERT_TAG_OPEN='s/^msgstr/<\nmsgstr/g'
     REMOVE_TAG_OPEN='/^<$/d'
 
-
     mkdir -p "locales/translations/${DST_DIR}"
     cat ${SRC_FILE} | sed -e ${INSERT_TAG_OPEN} | pospell -n - -f -p ${TRANSLATE_CMD} | sed -e ${REMOVE_TAG_OPEN} > ${DST_FILE}
 
