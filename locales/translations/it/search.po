@@ -33,5 +33,5 @@ msgstr "Non potrebbe trovare le ricette che contengono ogni ingrediente - le par
 
 msgid "refinement-ingredient-removed"
 msgstr ""
-"Ingrediente '${product}' non emparejó qualsiasi ricette e è stato tolto di "
-"la ricerca."
+"Ingrediente '{{product}}' non emparejó qualsiasi ricette e è stato tolto "
+"della ricerca."

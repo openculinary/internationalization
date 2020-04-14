@@ -8,4 +8,4 @@ msgid "prompt-exclude"
 msgstr "Ci sono degli ingredienti che <strong>non sono</strong> disponibili?"
 
 msgid "refinement-ingredient-removed"
-msgstr "Ingrediente '${product}' non emparejó qualsiasi ricette e è stato tolto della ricerca."
+msgstr "Ingrediente '{{product}}' non emparejó qualsiasi ricette e è stato tolto della ricerca."

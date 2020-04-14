@@ -33,5 +33,5 @@ msgstr "No podría encontrar las recetas que contienen cada ingrediente - los pa
 
 msgid "refinement-ingredient-removed"
 msgstr ""
-"Ingrediente '${product}' no emparejó cualesquier recetas y ha sido sacado de "
-"la búsqueda."
+"Ingrediente '{{product}}' no emparejó cualesquier recetas y ha sido sacado "
+"de la búsqueda."

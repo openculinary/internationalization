@@ -32,4 +32,4 @@ msgid "refinement-partial-results"
 msgstr "Couldn't find recipes containing every ingredient - partial matches are displayed."
 
 msgid "refinement-ingredient-removed"
-msgstr "Ingredient '${product}' didn't match any recipes and has been removed from the search."
+msgstr "Ingredient '{{product}}' didn't match any recipes and has been removed from the search."
