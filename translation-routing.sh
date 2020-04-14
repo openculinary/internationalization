@@ -4,14 +4,16 @@ function correct {
     FILENAME=$1
     DST_DIR=$2
 
-    TEMPLATE_FILE="locales/${DST_DIR}/${FILENAME}"
+    TEMPLATE_FILE="locales/translations/${DST_DIR}/${FILENAME}"
     CORRECTIONS_FILE="locales/corrections/${DST_DIR}/${FILENAME}"
+    OUTPUT_FILE="locales/${DST_DIR}/${FILENAME}"
 
     if [ ! -f "locales/corrections/${DST_DIR}/${FILENAME}" ]; then
+        cp ${TEMPLATE_FILE} ${OUTPUT_FILE}
         return
     fi
 
-    pomerge -t ${TEMPLATE_FILE} -i ${CORRECTIONS_FILE} -o ${TEMPLATE_FILE}
+    pomerge -t ${TEMPLATE_FILE} -i ${CORRECTIONS_FILE} -o ${OUTPUT_FILE}
 }
 
 function translate {
@@ -21,7 +23,7 @@ function translate {
     DST_DIR=$4
 
     SRC_FILE="locales/${SRC_DIR}/${FILENAME}"
-    DST_FILE="locales/${DST_DIR}/${FILENAME}"
+    DST_FILE="locales/translations/${DST_DIR}/${FILENAME}"
 
     TRANSLATE_CMD="apertium -- ${LANG_PAIR} -f html-noent -u"
     if [ -z "${LANG_PAIR}" ]; then
@@ -33,7 +35,7 @@ function translate {
     REMOVE_TAG_OPEN='/^<$/d'
 
 
-    mkdir -p "locales/${DST_DIR}"
+    mkdir -p "locales/translations/${DST_DIR}"
     cat ${SRC_FILE} | sed -e ${INSERT_TAG_OPEN} | pospell -n - -f -p ${TRANSLATE_CMD} | sed -e ${REMOVE_TAG_OPEN} > ${DST_FILE}
 
     correct ${FILENAME} ${DST_DIR}
