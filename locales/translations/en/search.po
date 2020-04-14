@@ -27,3 +27,9 @@ msgstr "Is there any kitchen equipment you'd like to use?"
 
 msgid "prompt-search-button"
 msgstr "Find recipes!"
+
+msgid "refinement-partial-results"
+msgstr "Couldn't find recipes containing every ingredient - partial matches are displayed."
+
+msgid "refinement-ingredient-removed"
+msgstr "Ingredient '${product}' didn't match any recipes and has been removed from the search."

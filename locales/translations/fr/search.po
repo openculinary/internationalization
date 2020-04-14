@@ -27,3 +27,11 @@ msgstr "Il est là n'importe quel équipement de cuisine te plairait utiliser?"
 
 msgid "prompt-search-button"
 msgstr "Il trouve des recettes!"
+
+msgid "refinement-partial-results"
+msgstr "il ne pourrait pas trouver les recettes qu'ils contiennent chaque ingrédient - les partis partiels sont montrés."
+
+msgid "refinement-ingredient-removed"
+msgstr ""
+"Ingrédient '${product}' n'a pas appareillé n'importe quelles recettes et il a été enlevé de "
+"la recherche."
