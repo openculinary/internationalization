@@ -10,20 +10,20 @@ msgstr ""
 
 msgid "prompt-welcome"
 msgstr ""
-"Benvenuto a <strong><em>RecipeRadar</em></strong>, il ricercatore di ricetta "
-"libera e cibo planner."
+"Bienvenido a RecipeRadar <strong><em></em></strong>, el motor de búsqueda de "
+"receta libre y comida planner."
 
 msgid "prompt-get-started"
-msgstr "Per iniziare, introdurre gli ingredienti  hai vicino."
+msgstr "Para empezar, introducir los ingredientes  tienes cercano."
 
 msgid "prompt-additional-options"
-msgstr "Opzioni di ricerca aggiuntiva"
+msgstr "Opciones de búsqueda adicional"
 
 msgid "prompt-exclude"
-msgstr "Ci sono degli ingredienti che <strong>non sono</strong> disponibili?"
+msgstr "Es allí cualesquier ingredientes que no <strong>es</strong> disponible?"
 
 msgid "prompt-equipment"
-msgstr "È lì qualsiasi attrezzatura di cucina ti piacerebbe utilizzare?"
+msgstr "Es allí cualquier equipamiento de cocina te gustaría utilizar?"
 
 msgid "prompt-search-button"
-msgstr "Trova ricette!"
+msgstr "Encuentra recetas!"
