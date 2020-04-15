@@ -28,6 +28,9 @@ msgstr "È lì qualsiasi attrezzatura di cucina ti piacerebbe utilizzare?"
 msgid "prompt-search-button"
 msgstr "Trova ricette!"
 
+msgid "refinement-empty-query"
+msgstr "Non riceviamo qualsiasi opzioni di ricerca di te, sicché  stiamo mostrandoti un ranking di migliori-ha valutato ricette."
+
 msgid "refinement-partial-results"
 msgstr "Non potrebbe trovare le ricette che contengono ogni ingrediente - le partite parziali sono mostrate."
 
