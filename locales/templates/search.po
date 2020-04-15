@@ -28,6 +28,9 @@ msgstr "Is there any kitchen equipment you'd like to use?"
 msgid "prompt-search-button"
 msgstr "Find recipes!"
 
+msgid "refinement-empty-query"
+msgstr "We didn't receive any search options from you, so we're showing you a ranking of best-rated recipes."
+
 msgid "refinement-partial-results"
 msgstr "Couldn't find recipes containing every ingredient - partial matches are displayed."
 
