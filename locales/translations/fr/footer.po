@@ -9,6 +9,4 @@ msgstr ""
 "PO-Revision-Date: 2020-03-09T14:59:54.791Z\n"
 
 msgid "source-code"
-msgstr ""
-"<a href='https://www.github.com/openculinary'>Code de source</a> disponible "
-"je descends l'AGPL"
+msgstr "<a href='https://www.github.com/openculinary'>Code de source</a> disponible je descends l'AGPLv3 <a href='#about-license'>licence</a>"
