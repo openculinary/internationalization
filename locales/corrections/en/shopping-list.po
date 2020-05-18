@@ -8,5 +8,5 @@ msgstr ""
 "POT-Creation-Date: 2020-05-18T11:58:49.045Z\n"
 "PO-Revision-Date: 2020-05-18T11:58:49.045Z\n"
 
-msgid "hint-drag"
-msgstr ""
+msgid "hint-tap"
+msgstr "Hint: Tap on ingredients to mark them as found"

@@ -9,13 +9,13 @@ msgstr ""
 "PO-Revision-Date: 2020-05-18T11:58:49.045Z\n"
 
 msgid "search"
-msgstr "Recipe Search"
+msgstr ""
 
 msgid "starred"
-msgstr "Starred Recipes"
+msgstr ""
 
 msgid "meal-planner"
-msgstr "Meal Planner"
+msgstr ""
 
 msgid "shopping-list"
-msgstr "Shopping List"
+msgstr ""

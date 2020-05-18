@@ -8,5 +8,14 @@ msgstr ""
 "POT-Creation-Date: 2020-05-18T11:58:49.045Z\n"
 "PO-Revision-Date: 2020-05-18T11:58:49.045Z\n"
 
-msgid "hint-drag"
-msgstr ""
+msgid "search"
+msgstr "Recipe Search"
+
+msgid "starred"
+msgstr "Starred Recipes"
+
+msgid "meal-planner"
+msgstr "Meal Planner"
+
+msgid "shopping-list"
+msgstr "Shopping List"
