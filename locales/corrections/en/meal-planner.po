@@ -10,3 +10,9 @@ msgstr ""
 
 msgid "hint-drag"
 msgstr "Hint: Drag recipes to schedule them during the week"
+
+msgid "empty-meal-planner"
+msgstr "You don't have any recipes in your meal planner at the moment."
+
+msgid "feature-introduction"
+msgstr "Recipes you add in <a href='#search'>search</a> results will appear here."
