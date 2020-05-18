@@ -46,6 +46,7 @@ do
     CATEGORY=`basename -s .pot ${TEMPLATE_FILE}`
     echo "Translating ${CATEGORY}"
 
+    translate ${CATEGORY} "en" "" "en"
     translate ${CATEGORY} "en" "en-es" "es"
     translate ${CATEGORY} "es" "es-fr" "fr"
     translate ${CATEGORY} "es" "spa-ita" "it"
