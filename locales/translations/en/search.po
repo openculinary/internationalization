@@ -5,16 +5,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2020-05-18T11:58:49.045Z\n"
-"PO-Revision-Date: 2020-05-18T11:58:49.045Z\n"
-
-msgid "prompt-welcome"
-msgstr ""
+"POT-Creation-Date: 2020-05-18T18:18:27.558Z\n"
+"PO-Revision-Date: 2020-05-18T18:18:27.558Z\n"
 
 msgid "prompt-get-started"
-msgstr ""
-
-msgid "prompt-additional-options"
 msgstr ""
 
 msgid "prompt-exclude"
@@ -24,13 +18,4 @@ msgid "prompt-equipment"
 msgstr ""
 
 msgid "prompt-search-button"
-msgstr ""
-
-msgid "refinement-empty-query"
-msgstr ""
-
-msgid "refinement-partial-results"
-msgstr ""
-
-msgid "refinement-ingredient-removed"
 msgstr ""
