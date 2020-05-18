@@ -5,16 +5,13 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2020-05-18T18:41:35.745Z\n"
-"PO-Revision-Date: 2020-05-18T18:41:35.745Z\n"
+"POT-Creation-Date: 2020-05-18T18:44:22.802Z\n"
+"PO-Revision-Date: 2020-05-18T18:44:22.802Z\n"
 
 msgid "refinement-empty-query"
 msgstr ""
 
 msgid "refinement-partial-results"
-msgstr ""
-
-msgid "prompt-get-started"
 msgstr ""
 
 msgid "prompt-exclude"
