@@ -1,14 +1,14 @@
 #!/bin/bash
 
 function correct {
-    FILENAME=$1
+    DST_FILENAME=$1
     DST_DIR=$2
 
-    TEMPLATE_FILE="locales/translations/${DST_DIR}/${FILENAME}"
-    CORRECTIONS_FILE="locales/corrections/${DST_DIR}/${FILENAME}"
-    OUTPUT_FILE="locales/${DST_DIR}/${FILENAME}"
+    TEMPLATE_FILE="locales/translations/${DST_DIR}/${DST_FILENAME}"
+    CORRECTIONS_FILE="locales/corrections/${DST_DIR}/${DST_FILENAME}"
+    OUTPUT_FILE="locales/${DST_DIR}/${DST_FILENAME}"
 
-    if [ ! -f "locales/corrections/${DST_DIR}/${FILENAME}" ]; then
+    if [ ! -f ${CORRECTIONS_FILE} ]; then
         cp ${TEMPLATE_FILE} ${OUTPUT_FILE}
         return
     fi
@@ -18,12 +18,13 @@ function correct {
 
 function translate {
     SRC_DIR=$1
-    FILENAME=$2
+    SRC_FILENAME=$2
     LANG_PAIR=$3
     DST_DIR=$4
 
-    SRC_FILE="locales/${SRC_DIR}/${FILENAME}"
-    DST_FILE="locales/translations/${DST_DIR}/${FILENAME}"
+    SRC_FILE="locales/${SRC_DIR}/${SRC_FILENAME}"
+    DST_FILENAME=`basename -s .pot ${SRC_FILENAME} | xargs basename -s .po`.po
+    DST_FILE="locales/translations/${DST_DIR}/${DST_FILENAME}"
 
     TRANSLATE_CMD="apertium -- ${LANG_PAIR} -f html-noent -u"
     if [ -z "${LANG_PAIR}" ]; then
@@ -37,16 +38,17 @@ function translate {
     mkdir -p "locales/translations/${DST_DIR}"
     cat ${SRC_FILE} | sed -e ${INSERT_TAG_OPEN} | pospell -n - -f -p ${TRANSLATE_CMD} | sed -e ${REMOVE_TAG_OPEN} > ${DST_FILE}
 
-    correct ${FILENAME} ${DST_DIR}
+    correct ${DST_FILENAME} ${DST_DIR}
 }
 
 TEMPLATE_DIR="locales/templates"
-for TEMPLATE_FILE in ${TEMPLATE_DIR}/*.po
+for TEMPLATE_FILE in ${TEMPLATE_DIR}/*.pot
 do
-    FILENAME=`basename ${TEMPLATE_FILE} ${TEMPLATE_DIR}`
+    CATEGORY=`basename -s .pot ${TEMPLATE_FILE}`
+    echo "Translating ${CATEGORY}"
 
-    translate "templates" ${FILENAME} "" "en"
-    translate "templates" ${FILENAME} "en-es" "es"
-    translate "es" ${FILENAME} "es-fr" "fr"
-    translate "es" ${FILENAME} "spa-ita" "it"
+    translate "templates" ${CATEGORY}.pot "" "en"
+    translate "templates" ${CATEGORY}.pot "en-es" "es"
+    translate "es" ${CATEGORY}.po "es-fr" "fr"
+    translate "es" ${CATEGORY}.po "spa-ita" "it"
 done
