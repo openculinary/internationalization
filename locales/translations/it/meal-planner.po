@@ -16,4 +16,5 @@ msgstr "Non hai qualsiasi ricette nel vostro cibo planner nel momento."
 
 msgid "feature-introduction"
 msgstr ""
-"Ricette  aggiungi in <a href='#search'>risultati</a> di ricerca appariranno qui."
+"Ricette aggiungi in risultati di <a href='#search'>ricerca</a> appariranno "
+"qui."
