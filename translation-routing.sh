@@ -1,12 +1,12 @@
 #!/bin/bash
 
 function correct {
-    FILENAME=$1
+    DST_FILENAME=$1
     DST_DIR=$2
 
-    TEMPLATE_FILE="locales/translations/${DST_DIR}/${FILENAME}"
-    CORRECTIONS_FILE="locales/corrections/${DST_DIR}/${FILENAME}"
-    OUTPUT_FILE="locales/${DST_DIR}/${FILENAME}"
+    TEMPLATE_FILE="locales/translations/${DST_DIR}/${DST_FILENAME}"
+    CORRECTIONS_FILE="locales/corrections/${DST_DIR}/${DST_FILENAME}"
+    OUTPUT_FILE="locales/${DST_DIR}/${DST_FILENAME}"
 
     if [ ! -f ${CORRECTIONS_FILE} ]; then
         cp ${TEMPLATE_FILE} ${OUTPUT_FILE}
