@@ -1,12 +1,12 @@
 #!/bin/bash
 
 function correct {
-    DST_FILENAME=$1
+    CATEGORY=$1
     DST_DIR=$2
 
-    TEMPLATE_FILE="locales/translations/${DST_DIR}/${DST_FILENAME}"
-    CORRECTIONS_FILE="locales/corrections/${DST_DIR}/${DST_FILENAME}"
-    OUTPUT_FILE="locales/${DST_DIR}/${DST_FILENAME}"
+    TEMPLATE_FILE="locales/translations/${DST_DIR}/${CATEGORY}.po"
+    CORRECTIONS_FILE="locales/corrections/${DST_DIR}/${CATEGORY}.po"
+    OUTPUT_FILE="locales/${DST_DIR}/${CATEGORY}.po"
 
     if [ ! -f ${CORRECTIONS_FILE} ]; then
         cp ${TEMPLATE_FILE} ${OUTPUT_FILE}
@@ -17,14 +17,13 @@ function correct {
 }
 
 function translate {
-    SRC_DIR=$1
-    SRC_FILENAME=$2
+    CATEGORY=$1
+    SRC_DIR=$2
     LANG_PAIR=$3
     DST_DIR=$4
 
-    SRC_FILE="locales/${SRC_DIR}/${SRC_FILENAME}"
-    DST_FILENAME=`basename -s .pot ${SRC_FILENAME} | xargs basename -s .po`.po
-    DST_FILE="locales/translations/${DST_DIR}/${DST_FILENAME}"
+    SRC_FILE="locales/${SRC_DIR}/${CATEGORY}.po"
+    DST_FILE="locales/translations/${DST_DIR}/${CATEGORY}.po"
 
     TRANSLATE_CMD="apertium -- ${LANG_PAIR} -f html-noent -u"
     if [ -z "${LANG_PAIR}" ]; then
@@ -38,7 +37,7 @@ function translate {
     mkdir -p "locales/translations/${DST_DIR}"
     cat ${SRC_FILE} | sed -e ${INSERT_TAG_OPEN} | pospell -n - -f -p ${TRANSLATE_CMD} | sed -e ${REMOVE_TAG_OPEN} > ${DST_FILE}
 
-    correct ${DST_FILENAME} ${DST_DIR}
+    correct ${CATEGORY} ${DST_DIR}
 }
 
 TEMPLATE_DIR="locales/templates"
@@ -47,8 +46,7 @@ do
     CATEGORY=`basename -s .pot ${TEMPLATE_FILE}`
     echo "Translating ${CATEGORY}"
 
-    translate "templates" ${CATEGORY}.pot "" "en"
-    translate "templates" ${CATEGORY}.pot "en-es" "es"
-    translate "es" ${CATEGORY}.po "es-fr" "fr"
-    translate "es" ${CATEGORY}.po "spa-ita" "it"
+    translate ${CATEGORY} "en" "en-es" "es"
+    translate ${CATEGORY} "es" "es-fr" "fr"
+    translate ${CATEGORY} "es" "spa-ita" "it"
 done
