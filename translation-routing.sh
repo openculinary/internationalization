@@ -27,6 +27,7 @@ function translate {
 
     TRANSLATE_CMD="apertium -- ${LANG_PAIR} -f html-noent -u"
     if [ -z "${LANG_PAIR}" ]; then
+        SRC_FILE="locales/templates/${CATEGORY}.pot"
         TRANSLATE_CMD="cat --"
     fi
 
