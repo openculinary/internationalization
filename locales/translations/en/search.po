@@ -10,35 +10,27 @@ msgstr ""
 
 msgid "prompt-welcome"
 msgstr ""
-"Welcome to <strong><em>RecipeRadar</em></strong>, the free recipe search "
-"engine and meal planner."
 
 msgid "prompt-get-started"
-msgstr "To begin, enter the ingredients you have nearby."
+msgstr ""
 
 msgid "prompt-additional-options"
-msgstr "Additional search options"
+msgstr ""
 
 msgid "prompt-exclude"
-msgstr "Are there any ingredients that are <strong>not</strong> available?"
+msgstr ""
 
 msgid "prompt-equipment"
-msgstr "Is there any kitchen equipment you'd like to use?"
+msgstr ""
 
 msgid "prompt-search-button"
-msgstr "Find recipes!"
+msgstr ""
 
 msgid "refinement-empty-query"
 msgstr ""
-"We didn't receive any search options from you, so we're showing you a "
-"ranking of best-rated recipes."
 
 msgid "refinement-partial-results"
 msgstr ""
-"Couldn't find recipes containing every ingredient - partial matches are "
-"displayed."
 
 msgid "refinement-ingredient-removed"
 msgstr ""
-"Ingredient '{{product}}' didn't match any recipes and has been removed from "
-"the search."

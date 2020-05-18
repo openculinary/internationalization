@@ -9,22 +9,22 @@ msgstr ""
 "PO-Revision-Date: 2020-05-18T11:58:49.043Z\n"
 
 msgid "bakery"
-msgstr "Bakery"
+msgstr ""
 
 msgid "dairy"
-msgstr "Dairy"
+msgstr ""
 
 msgid "dry_goods"
-msgstr "Dry Goods"
+msgstr ""
 
 msgid "fruit_and_veg"
-msgstr "Fruit & Vegetables"
+msgstr ""
 
 msgid "meat_and_deli"
-msgstr "Meat & Delicatessen"
+msgstr ""
 
 msgid "null"
-msgstr "Other"
+msgstr ""
 
 msgid "oil_and_vinegar_and_condiments"
-msgstr "Oil Vinegar and Condiments"
+msgstr ""
