@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-05-18T11:58:49.045Z\n"
+"POT-Creation-Date: 2020-05-18T18:18:27.558Z\n"
 "PO-Revision-Date: 2020-05-18T18:58:49.045Z\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -10,3 +10,11 @@ msgstr ""
 
 msgid "hint-drag"
 msgstr "Piste: il Traîne des recettes pour leur planifier pendant la semaine"
+
+msgid "empty-meal-planner"
+msgstr "tu n'as pas n'importe quelles recettes dans votre repas planner dans le moment."
+
+msgid "feature-introduction"
+msgstr ""
+"Recettes tu ajoutes en des résultats de <a href='#search'>recherche</a> apparaîtront "
+"ici."

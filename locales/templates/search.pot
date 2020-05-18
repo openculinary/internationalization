@@ -11,6 +11,12 @@ msgstr ""
 msgid "prompt-get-started"
 msgstr ""
 
+msgid "refinement-empty-query"
+msgstr ""
+
+msgid "refinement-partial-results"
+msgstr ""
+
 msgid "prompt-exclude"
 msgstr ""
 

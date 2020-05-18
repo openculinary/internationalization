@@ -10,3 +10,9 @@ msgstr ""
 
 msgid "hint-drag"
 msgstr ""
+
+msgid "empty-meal-planner"
+msgstr ""
+
+msgid "feature-introduction"
+msgstr ""
