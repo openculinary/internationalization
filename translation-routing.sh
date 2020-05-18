@@ -8,7 +8,7 @@ function correct {
     CORRECTIONS_FILE="locales/corrections/${DST_DIR}/${FILENAME}"
     OUTPUT_FILE="locales/${DST_DIR}/${FILENAME}"
 
-    if [ ! -f "locales/corrections/${DST_DIR}/${FILENAME}" ]; then
+    if [ ! -f ${CORRECTIONS_FILE} ]; then
         cp ${TEMPLATE_FILE} ${OUTPUT_FILE}
         return
     fi
