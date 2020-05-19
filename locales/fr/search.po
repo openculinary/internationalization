@@ -1,32 +1,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2020-05-19T14:49:33.998Z\n"
+"PO-Revision-Date: 2020-05-19 15:59+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2020-05-18T11:58:49.045Z\n"
-"PO-Revision-Date: 2020-05-18T11:58:49.045Z\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "prompt-welcome"
-msgstr ""
-"Bienvenu &agrave; <strong><em>RecipeRadar</em></strong>, le moteur de "
-"recherche de recette libre et repas planner."
+msgid "result-tab-ingredients"
+msgstr "Ingrédients"
 
-msgid "prompt-get-started"
-msgstr "Pour commencer, introduire les ingrédients  tu as proche."
+msgid "result-tab-directions"
+msgstr "Directions"
 
-msgid "prompt-additional-options"
-msgstr "Options de recherche additionnelle"
-
-msgid "prompt-exclude"
-msgstr "Y a-t-il des ingrédients qui <strong>ne sont pas</strong> disponibles?"
-
-msgid "prompt-equipment"
-msgstr "Il est là n'importe quel équipement de cuisine te plairait utiliser?"
-
-msgid "prompt-search-button"
-msgstr "Trouver des recettes!"
+msgid "result-add-to-shopping-list"
+msgstr "Il ajoute à liste d'achat"
 
 msgid "refinement-empty-query"
 msgstr ""
@@ -38,7 +27,39 @@ msgstr ""
 "il ne pourrait pas trouver les recettes qu'ils contiennent chaque ingrédient - les partis partiels sont "
 "montrés."
 
-msgid "refinement-ingredient-removed"
+msgid "results-empty"
 msgstr ""
-"Ingrédient '{{product}}' n'a pas appareillé n'importe quelles recettes et il "
-"a été enlevé de la recherche."
+"il n'a pas trouvé n'importe quelles recettes qu'ils appareillent votre recherche.  Je nous envoie un il raccorde via la "
+"forme de retroalimentación si  sais de n'importe quelle!"
+
+msgid "results-failed"
+msgstr ""
+"il ne pourrait pas remporter le service de recherche de la recette.  Ceci se pourrait devoir à un problème "
+"de connexion dans votre dispositif, ou notre service pourrait être éprouver des problèmes ."
+
+msgid "sort-ingredients"
+msgstr "fewest Les extras ont requis"
+
+msgid "sort-relevance"
+msgstr "La plupart d'ingrédients ils ont utilisé"
+
+msgid "sort-duration"
+msgstr "Temps plus court pour faire"
+
+msgid "sort-selection-label"
+msgstr "Sélection de classe de la recette"
+
+msgid "sort-selection-prompt"
+msgstr "Mandat par"
+
+msgid "prompt-get-started"
+msgstr "Pour commencer, introduire les ingrédients  tu as proche."
+
+msgid "prompt-exclude"
+msgstr "Y a-t-il des ingrédients qui <strong>ne sont pas</strong> disponibles?"
+
+msgid "prompt-equipment"
+msgstr "Il est là n'importe quel équipement de cuisine te plairait utiliser?"
+
+msgid "prompt-search-button"
+msgstr "Trouver des recettes!"
