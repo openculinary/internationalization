@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-05-19T14:49:33.998Z\n"
-"PO-Revision-Date: 2020-05-19 15:59+0100\n"
+"POT-Creation-Date: 2020-05-19T17:43:02.742Z\n"
+"PO-Revision-Date: 2020-05-19 18:45+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14,8 +14,8 @@ msgstr "Ingredienti"
 msgid "result-tab-directions"
 msgstr "Indirizzi"
 
-msgid "result-add-to-shopping-list"
-msgstr "Aggiunge ad elenco di spesa"
+msgid "result-add-recipe"
+msgstr "Aggiunge a cibo planner"
 
 msgid "refinement-empty-query"
 msgstr ""
@@ -26,28 +26,6 @@ msgid "refinement-partial-results"
 msgstr ""
 "Non potrebbe trovare le ricette che contengono ogni ingrediente - le partite parziali sono "
 "mostrate."
-
-msgid "results-empty"
-msgstr ""
-"Non ha trovato qualsiasi ricette che emparejan la vostra ricerca.  Ci invio un link via la "
-"forma di feedback se  sai di qualsiasi!"
-
-msgid "results-failed"
-msgstr ""
-"Non potrebbe riuscire il servizio di ricerca della ricetta.  Questo si potrebbe dovere a un problema "
-"di connessione nel vostro dispositivo, o il nostro servizio potrebbe essere sperimentare problemi ."
-
-msgid "sort-ingredients"
-msgstr "fewest Gli extra hanno richiesto"
-
-msgid "sort-relevance"
-msgstr "La maggioranza di ingredienti hanno utilizzato"
-
-msgid "sort-duration"
-msgstr "Meteo più corto partorisca fare"
-
-msgid "sort-selection-label"
-msgstr "Selezione di classe della ricetta"
 
 msgid "sort-selection-prompt"
 msgstr "Ordine per"

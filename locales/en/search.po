@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-05-19T14:49:33.998Z\n"
-"PO-Revision-Date: 2020-05-19 15:59+0100\n"
+"POT-Creation-Date: 2020-05-19T17:43:02.742Z\n"
+"PO-Revision-Date: 2020-05-19 18:45+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14,8 +14,8 @@ msgstr "Ingredients"
 msgid "result-tab-directions"
 msgstr "Directions"
 
-msgid "result-add-to-shopping-list"
-msgstr "Add to shopping list"
+msgid "result-add-recipe"
+msgstr "Add to meal planner"
 
 msgid "refinement-empty-query"
 msgstr ""
@@ -26,28 +26,6 @@ msgid "refinement-partial-results"
 msgstr ""
 "Couldn't find recipes containing every ingredient - partial matches are "
 "displayed."
-
-msgid "results-empty"
-msgstr ""
-"Didn't find any recipes matching your search.  Send us a link via the "
-"feedback form if you know of any!"
-
-msgid "results-failed"
-msgstr ""
-"Couldn't reach the recipe search service.  This could be due to a connection "
-"problem on your device, or our service could be experiencing problems."
-
-msgid "sort-ingredients"
-msgstr "fewest extras required"
-
-msgid "sort-relevance"
-msgstr "most ingredients used"
-
-msgid "sort-duration"
-msgstr "shortest time to make"
-
-msgid "sort-selection-label"
-msgstr "Recipe sort selection"
 
 msgid "sort-selection-prompt"
 msgstr "Order by"
