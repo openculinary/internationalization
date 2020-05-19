@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2020-05-19T14:49:33.998Z\n"
-"PO-Revision-Date: 2020-05-19T14:49:33.998Z\n"
+"POT-Creation-Date: 2020-05-19T17:38:52.214Z\n"
+"PO-Revision-Date: 2020-05-19T17:38:52.214Z\n"
 
 msgid "result-tab-ingredients"
 msgstr ""
@@ -21,24 +21,6 @@ msgid "refinement-empty-query"
 msgstr ""
 
 msgid "refinement-partial-results"
-msgstr ""
-
-msgid "results-empty"
-msgstr ""
-
-msgid "results-failed"
-msgstr ""
-
-msgid "sort-ingredients"
-msgstr ""
-
-msgid "sort-relevance"
-msgstr ""
-
-msgid "sort-duration"
-msgstr ""
-
-msgid "sort-selection-label"
 msgstr ""
 
 msgid "sort-selection-prompt"
