@@ -16,5 +16,5 @@ msgstr "tu n'as pas n'importe quelles recettes dans votre repas planner dans le 
 
 msgid "feature-introduction"
 msgstr ""
-"Recettes tu ajoutes en des résultats de <a href='#search'>recherche</a> "
+"Recettes tu ajoutes de résultats de <a href='#search'>recherche</a> "
 "apparaîtront ici."
