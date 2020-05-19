@@ -1,3 +1,4 @@
 *.lock
+*.mo
 *.swp
 node_modules
