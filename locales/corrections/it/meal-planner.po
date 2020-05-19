@@ -9,4 +9,4 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 msgid "feature-introduction"
-msgstr "Ricette aggiungi in risultati di <a href='#search'>ricerca</a> appariranno qui."
+msgstr "Ricette aggiungi di risultati di <a href='#search'>ricerca</a> appariranno qui."
