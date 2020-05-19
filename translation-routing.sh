@@ -13,7 +13,7 @@ function correct {
         return
     fi
 
-    pomerge -S -t ${TEMPLATE_FILE} -i ${CORRECTIONS_FILE} -o ${OUTPUT_FILE}
+    pomerge -t ${TEMPLATE_FILE} -i ${CORRECTIONS_FILE} -o ${OUTPUT_FILE}
 }
 
 function translate {
