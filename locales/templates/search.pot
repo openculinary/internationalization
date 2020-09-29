@@ -37,3 +37,33 @@ msgstr ""
 
 msgid "prompt-search-button"
 msgstr ""
+
+msgid "result-add-to-shopping-list"
+msgstr ""
+
+msgid "results-empty"
+msgstr ""
+
+msgid "results-failed"
+msgstr ""
+
+msgid "sort-ingredients"
+msgstr ""
+
+msgid "sort-relevance"
+msgstr ""
+
+msgid "sort-duration"
+msgstr ""
+
+msgid "sort-selection-label"
+msgstr ""
+
+msgid "prompt-welcome"
+msgstr ""
+
+msgid "prompt-additional-options"
+msgstr ""
+
+msgid "refinement-ingredient-removed"
+msgstr ""

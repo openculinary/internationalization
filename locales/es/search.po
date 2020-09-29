@@ -41,3 +41,41 @@ msgstr "Es allí cualquier equipamiento de cocina te gustaría utilizar?"
 
 msgid "prompt-search-button"
 msgstr "Encuentra recetas!"
+
+msgid "result-add-to-shopping-list"
+msgstr "Añade a lista de compra"
+
+msgid "results-empty"
+msgstr ""
+"No encontró cualesquier recetas que emparejan vuestra búsqueda.  Nos envío un enlace vía la "
+"forma de retroalimentación si  sabes de cualquier!"
+
+msgid "results-failed"
+msgstr ""
+"No podría lograr el servicio de búsqueda de la receta.  Esto se podría deber a un problema "
+"de conexión en vuestro dispositivo, o nuestro servicio podría ser experimentar problemas ."
+
+msgid "sort-ingredients"
+msgstr "fewest Los extras requirieron"
+
+msgid "sort-relevance"
+msgstr "La mayoría de ingredientes utilizaron"
+
+msgid "sort-duration"
+msgstr "Tiempo más corto para hacer"
+
+msgid "sort-selection-label"
+msgstr "Selección de clase de la receta"
+
+msgid "prompt-welcome"
+msgstr ""
+"Bienvenido a <strong><em>RecipeRadar</em></strong>, el buscador de receta "
+"libre y comida planner."
+
+msgid "prompt-additional-options"
+msgstr "Opciones de búsqueda adicional"
+
+msgid "refinement-ingredient-removed"
+msgstr ""
+"Ingrediente '{{product}}' no emparejó cualesquier recetas y ha sido sacado "
+"de la búsqueda."
