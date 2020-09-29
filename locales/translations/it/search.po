@@ -24,8 +24,8 @@ msgstr ""
 
 msgid "refinement-partial-results"
 msgstr ""
-"Non potrebbe trovare le ricette che contengono ogni ingrediente - le partite parziali sono "
-"mostrate."
+"Non molti risulta quello utilizza tutti i vostri ingredienti sono stato ritrovati, partite così "
+"parziali sono stati inclusi nei vostri risultati di ricerca"
 
 msgid "sort-selection-prompt"
 msgstr "Ordine per"

@@ -24,8 +24,8 @@ msgstr ""
 
 msgid "refinement-partial-results"
 msgstr ""
-"il ne pourrait pas trouver les recettes qu'ils contiennent chaque ingrédient - les partis partiels sont "
-"montrés."
+"Ne beaucoup d'il résulte cela il utilise tous vos ingrédients ils ont été trouvés, partis tellement "
+"partiels ont été compris dans vos résultats de recherche"
 
 msgid "sort-selection-prompt"
 msgstr "Mandat par"

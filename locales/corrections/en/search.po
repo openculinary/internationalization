@@ -27,9 +27,7 @@ msgstr ""
 "ranking of best-rated recipes."
 
 msgid "refinement-partial-results"
-msgstr ""
-"Couldn't find recipes containing every ingredient - partial matches are "
-"displayed."
+msgstr "Not many results that use all your ingredients were found, so partial matches have been included in your search results"
 
 msgid "sort-selection-prompt"
 msgstr "Order by"
