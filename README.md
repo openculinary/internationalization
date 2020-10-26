@@ -26,7 +26,7 @@ Finally, a developer performs a build of the [`frontend`](https://github.com/ope
 
 - A feature or change to the application requires internationalization
 - The translation resource scan collects updated placeholders
-- Machine translation attempts a first-pass naive string generation
+- Machine translation generates 'default' per-language strings
 - Human corrections override specific placeholders
 - Updated templates and translations are committed to this repository
 - The application is rebuilt using the updated translations
