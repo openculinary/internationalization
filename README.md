@@ -10,9 +10,7 @@ This repository contains [gettext](https://www.gnu.org/software/gettext/) files 
 
 When developers are working on a feature that requires updated translations, they run a [translation resource scan](https://github.com/openculinary/frontend#internationalization) to regenerate the templates.
 
-Human experts can provide translations for individual placeholders; these manually-provided translations are found [arranged by language under the `corrections` directory](https://github.com/openculinary/internationalization/tree/main/locales/corrections).
-
-Default machine-translated strings for each placeholder in each language are provided by [apertium](https://www.apertium.org/).
+Default machine-translated strings for each placeholder in each language are provided by [apertium](https://www.apertium.org/), and human experts can provide improved translations.  Expert-provided translations are stored [arranged by language under the `corrections` directory](https://github.com/openculinary/internationalization/tree/main/locales/corrections).
 
 A script is provided to combine all current human corrections with the latest machine-translated strings:
 
