@@ -4,9 +4,9 @@ Internationalization tools and content for RecipeRadar.
 
 ## How it works
 
-The RecipeRadar [frontend](https://github.com/openculinary/frontend) application contains placeholders where human-readable text strings should appear.  For example, the [`search:prompt-get-started`](https://github.com/openculinary/internationalization/blob/7c9068f3ea5072a4e6f49efe7178a345b158b5a9/locales/templates/search.pot#L29-L30) placeholder is replaced by instructions to help users to begin using the application.
+The RecipeRadar [frontend](https://github.com/openculinary/frontend) application contains placeholders where human-readable text strings should appear.  For example, the [`search:prompt-get-started`](https://github.com/openculinary/internationalization/blob/7c9068f3ea5072a4e6f49efe7178a345b158b5a9/locales/templates/search.pot#L29-L30) label in the application will be filled by instructions to help users begin using the application.
 
-This repository contains [gettext](https://www.gnu.org/software/gettext/) files that contain the list of placeholders (in `.pot` files), and the corresponding machine-or-human-translated strings to fill those slots (in `.po` files).
+This repository contains [gettext](https://www.gnu.org/software/gettext/) files that contain the list of placeholder labels (in `.pot` files), and the corresponding machine-or-human-translated strings to fill those slots (in `.po` files).
 
 When developers are working on a feature that requires updated translations, they run a [translation resource scan](https://github.com/openculinary/frontend#internationalization) to regenerate the templates.
 
