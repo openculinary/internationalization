@@ -20,6 +20,8 @@ A script is provided to combine all current human corrections with the latest ma
 $ ./translation-routing.sh
 ```
 
+Finally, a developer performs a build of the [`frontend`](https://github.com/openculinary/frontend) application -- which includes a copy of this repository as a [git submodule](https://github.com/openculinary/frontend/blob/85cafd48bf5d7bf840aff0a545c969a9eea6e554/.gitmodules) -- and the templates are bundled into the application by the [`webpack` configuration](https://github.com/openculinary/frontend/blob/85cafd48bf5d7bf840aff0a545c969a9eea6e554/webpack.config.js#L21).
+
 ## Workflow summary
 
 - A feature or change to the application requires internationalization
