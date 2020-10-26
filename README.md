@@ -8,7 +8,7 @@ The RecipeRadar [frontend](https://github.com/openculinary/frontend) application
 
 This repository contains [gettext](https://www.gnu.org/software/gettext/) files that contain the list of placeholders (in `.pot` files), and the corresponding machine-or-human-translated strings to fill those slots (in `.po` files).
 
-When developers are working on a feature that adds text to be translated, they run a [translation resource scan](https://github.com/openculinary/frontend#internationalization) on their code, and this updates the templates (`.pot` files) in the developer's copy of this repository.
+When developers are working on a feature that requires updated translations, they run a [translation resource scan](https://github.com/openculinary/frontend#internationalization) to regenerate the templates.
 
 Human experts can provide translations for individual placeholders; these manually-provided translations are found [arranged by language under the `corrections` directory](https://github.com/openculinary/internationalization/tree/main/locales/corrections).
 
