@@ -1,21 +1,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-05-19T17:43:02.742Z\n"
+"POT-Creation-Date: 2020-10-27T11:36:02.326Z\n"
 "PO-Revision-Date: 2020-05-19 18:45+0100\n"
-"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"mime-version: 1.0\n"
+
+msgid "result-add-recipe"
+msgstr "Añade a comida planner"
 
 msgid "result-tab-ingredients"
 msgstr "Ingredientes"
 
 msgid "result-tab-directions"
 msgstr "Direcciones"
-
-msgid "result-add-recipe"
-msgstr "Añade a comida planner"
 
 msgid "refinement-empty-query"
 msgstr ""
@@ -26,6 +26,15 @@ msgid "refinement-partial-results"
 msgstr ""
 "No muchos resulta aquello utiliza todos vuestros ingredientes estuvieron encontrados, partidos tan "
 "parciales han sido incluidos en vuestros resultados de búsqueda"
+
+msgid "sort-relevance"
+msgstr "La mayoría de ingredientes utilizaron"
+
+msgid "sort-ingredients"
+msgstr "fewest Los extras requirieron"
+
+msgid "sort-duration"
+msgstr "Tiempo más corto para hacer"
 
 msgid "sort-selection-prompt"
 msgstr "Orden por"
@@ -41,41 +50,3 @@ msgstr "Es allí cualquier equipamiento de cocina te gustaría utilizar?"
 
 msgid "prompt-search-button"
 msgstr "Encuentra recetas!"
-
-msgid "result-add-to-shopping-list"
-msgstr "Añade a lista de compra"
-
-msgid "results-empty"
-msgstr ""
-"No encontró cualesquier recetas que emparejan vuestra búsqueda.  Nos envío un enlace vía la "
-"forma de retroalimentación si  sabes de cualquier!"
-
-msgid "results-failed"
-msgstr ""
-"No podría lograr el servicio de búsqueda de la receta.  Esto se podría deber a un problema "
-"de conexión en vuestro dispositivo, o nuestro servicio podría ser experimentar problemas ."
-
-msgid "sort-ingredients"
-msgstr "fewest Los extras requirieron"
-
-msgid "sort-relevance"
-msgstr "La mayoría de ingredientes utilizaron"
-
-msgid "sort-duration"
-msgstr "Tiempo más corto para hacer"
-
-msgid "sort-selection-label"
-msgstr "Selección de clase de la receta"
-
-msgid "prompt-welcome"
-msgstr ""
-"Bienvenido a <strong><em>RecipeRadar</em></strong>, el buscador de receta "
-"libre y comida planner."
-
-msgid "prompt-additional-options"
-msgstr "Opciones de búsqueda adicional"
-
-msgid "refinement-ingredient-removed"
-msgstr ""
-"Ingrediente '{{product}}' no emparejó cualesquier recetas y ha sido sacado "
-"de la búsqueda."

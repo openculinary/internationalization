@@ -1,21 +1,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"mime-version: 1.0\n"
+"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2020-10-27T11:36:02.326Z\n"
-"PO-Revision-Date: 2020-10-27T11:36:02.326Z\n"
+"POT-Creation-Date: 2020-05-18T11:58:49.043Z\n"
+"PO-Revision-Date: 2020-05-18T11:58:49.043Z\n"
 
-msgid "search"
+msgid "is_dairy_free"
 msgstr ""
 
-msgid "starred"
+msgid "is_gluten_free"
 msgstr ""
 
-msgid "meal-planner"
+msgid "is_vegan"
 msgstr ""
 
-msgid "shopping-list"
+msgid "is_vegetarian"
 msgstr ""
