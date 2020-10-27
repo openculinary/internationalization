@@ -1,21 +1,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-05-19T17:43:02.742Z\n"
+"POT-Creation-Date: 2020-10-27T11:36:02.326Z\n"
 "PO-Revision-Date: 2020-05-19 18:45+0100\n"
-"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"mime-version: 1.0\n"
+
+msgid "result-add-recipe"
+msgstr "Il ajoute à repas planner"
 
 msgid "result-tab-ingredients"
 msgstr "Ingrédients"
 
 msgid "result-tab-directions"
 msgstr "Directions"
-
-msgid "result-add-recipe"
-msgstr "Il ajoute à repas planner"
 
 msgid "refinement-empty-query"
 msgstr ""
@@ -26,6 +26,15 @@ msgid "refinement-partial-results"
 msgstr ""
 "Ne beaucoup d'il résulte cela il utilise tous vos ingrédients ils ont été trouvés, partis tellement "
 "partiels ont été compris dans vos résultats de recherche"
+
+msgid "sort-relevance"
+msgstr "La plupart d'ingrédients ils ont utilisé"
+
+msgid "sort-ingredients"
+msgstr "fewest Les extras ont requis"
+
+msgid "sort-duration"
+msgstr "Temps plus court pour faire"
 
 msgid "sort-selection-prompt"
 msgstr "Mandat par"
@@ -41,41 +50,3 @@ msgstr "Il est là n'importe quel équipement de cuisine te plairait utiliser?"
 
 msgid "prompt-search-button"
 msgstr "Il trouve des recettes!"
-
-msgid "result-add-to-shopping-list"
-msgstr "Il ajoute à liste d'achat"
-
-msgid "results-empty"
-msgstr ""
-"il n'a pas trouvé n'importe quelles recettes qu'ils appareillent votre recherche.  Je nous envoie un il raccorde via la "
-"forme de retroalimentación si  sais de n'importe quelle!"
-
-msgid "results-failed"
-msgstr ""
-"il ne pourrait pas remporter le service de recherche de la recette.  Ceci se pourrait devoir à un problème "
-"de connexion dans votre dispositif, ou notre service pourrait être éprouver des problèmes ."
-
-msgid "sort-ingredients"
-msgstr "fewest Les extras ont requis"
-
-msgid "sort-relevance"
-msgstr "La plupart d'ingrédients ils ont utilisé"
-
-msgid "sort-duration"
-msgstr "Temps plus court pour faire"
-
-msgid "sort-selection-label"
-msgstr "Sélection de classe de la recette"
-
-msgid "prompt-welcome"
-msgstr ""
-"Bienvenu à <strong><em>RecipeRadar</em></strong>, le moteur de recherche de recette "
-"libre et repas planner."
-
-msgid "prompt-additional-options"
-msgstr "Options de recherche additionnelle"
-
-msgid "refinement-ingredient-removed"
-msgstr ""
-"Ingrédient '{{product}}' n'a pas appareillé n'importe quelles recettes et il a été enlevé "
-"de la recherche."
