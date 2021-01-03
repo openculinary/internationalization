@@ -1,21 +1,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-05-19T17:43:02.742Z\n"
+"POT-Creation-Date: 2021-01-03T15:34:09.966Z\n"
 "PO-Revision-Date: 2020-05-19 18:45+0100\n"
-"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"mime-version: 1.0\n"
+
+msgid "result-add-recipe"
+msgstr "Add to meal planner"
 
 msgid "result-tab-ingredients"
 msgstr "Ingredients"
 
 msgid "result-tab-directions"
 msgstr "Directions"
-
-msgid "result-add-recipe"
-msgstr "Add to meal planner"
 
 msgid "refinement-empty-query"
 msgstr ""
@@ -26,6 +26,15 @@ msgid "refinement-partial-results"
 msgstr ""
 "Not many results that use all your ingredients were found, so partial "
 "matches have been included in your search results"
+
+msgid "sort-relevance"
+msgstr "most ingredients used"
+
+msgid "sort-ingredients"
+msgstr "fewest extras required"
+
+msgid "sort-duration"
+msgstr "shortest time to make"
 
 msgid "sort-selection-prompt"
 msgstr "Order by"
@@ -41,41 +50,3 @@ msgstr "Is there any kitchen equipment you'd like to use?"
 
 msgid "prompt-search-button"
 msgstr "Find recipes!"
-
-msgid "result-add-to-shopping-list"
-msgstr "Add to shopping list"
-
-msgid "results-empty"
-msgstr ""
-"Didn't find any recipes matching your search.  Send us a link via the "
-"feedback form if you know of any!"
-
-msgid "results-failed"
-msgstr ""
-"Couldn't reach the recipe search service.  This could be due to a connection "
-"problem on your device, or our service could be experiencing problems."
-
-msgid "sort-ingredients"
-msgstr "fewest extras required"
-
-msgid "sort-relevance"
-msgstr "most ingredients used"
-
-msgid "sort-duration"
-msgstr "shortest time to make"
-
-msgid "sort-selection-label"
-msgstr "Recipe sort selection"
-
-msgid "prompt-welcome"
-msgstr ""
-"Welcome to <strong><em>RecipeRadar</em></strong>, the free recipe search "
-"engine and meal planner."
-
-msgid "prompt-additional-options"
-msgstr "Additional search options"
-
-msgid "refinement-ingredient-removed"
-msgstr ""
-"Ingredient '{{product}}' didn't match any recipes and has been removed from "
-"the search."
