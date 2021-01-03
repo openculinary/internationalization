@@ -11,6 +11,9 @@ msgstr ""
 msgid "search"
 msgstr "Recherche de recette"
 
+msgid "explore"
+msgstr "Explorateur de recette"
+
 msgid "starred"
 msgstr "Il a joué le rôle principal des Recettes"
 

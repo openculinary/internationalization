@@ -11,6 +11,9 @@ msgstr ""
 msgid "search"
 msgstr "Recipe Search"
 
+msgid "explore"
+msgstr "Recipe Explorer"
+
 msgid "starred"
 msgstr "Starred Recipes"
 

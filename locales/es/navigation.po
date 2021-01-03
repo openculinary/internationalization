@@ -11,6 +11,9 @@ msgstr ""
 msgid "search"
 msgstr "Búsqueda de receta"
 
+msgid "explore"
+msgstr "Explorador de receta"
+
 msgid "starred"
 msgstr "Protagonizó Recetas"
 
