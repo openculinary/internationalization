@@ -1,12 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"MIME-Version: 1.0\n"
+"mime-version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2020-05-19T17:43:02.742Z\n"
-"PO-Revision-Date: 2020-05-19T17:43:02.742Z\n"
+"POT-Creation-Date: 2021-01-03T15:34:09.966Z\n"
+"PO-Revision-Date: 2021-01-03T15:34:09.966Z\n"
+
+msgid "result-add-recipe"
+msgstr ""
 
 msgid "result-tab-ingredients"
 msgstr ""
@@ -14,13 +17,19 @@ msgstr ""
 msgid "result-tab-directions"
 msgstr ""
 
-msgid "result-add-recipe"
-msgstr ""
-
 msgid "refinement-empty-query"
 msgstr ""
 
 msgid "refinement-partial-results"
+msgstr ""
+
+msgid "sort-relevance"
+msgstr ""
+
+msgid "sort-ingredients"
+msgstr ""
+
+msgid "sort-duration"
 msgstr ""
 
 msgid "sort-selection-prompt"
@@ -36,34 +45,4 @@ msgid "prompt-equipment"
 msgstr ""
 
 msgid "prompt-search-button"
-msgstr ""
-
-msgid "result-add-to-shopping-list"
-msgstr ""
-
-msgid "results-empty"
-msgstr ""
-
-msgid "results-failed"
-msgstr ""
-
-msgid "sort-ingredients"
-msgstr ""
-
-msgid "sort-relevance"
-msgstr ""
-
-msgid "sort-duration"
-msgstr ""
-
-msgid "sort-selection-label"
-msgstr ""
-
-msgid "prompt-welcome"
-msgstr ""
-
-msgid "prompt-additional-options"
-msgstr ""
-
-msgid "refinement-ingredient-removed"
 msgstr ""
