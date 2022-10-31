@@ -75,8 +75,3 @@ msgstr "Recipe sort selection"
 
 msgid "prompt-additional-options"
 msgstr "Additional search options"
-
-msgid "refinement-ingredient-removed"
-msgstr ""
-"Ingredient '{{product}}' didn't match any recipes and has been removed "
-"from the search."
