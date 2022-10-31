@@ -49,7 +49,7 @@ msgid "prompt-equipment"
 msgstr "Is there any kitchen equipment you'd like to use?"
 
 msgid "prompt-dietary-properties"
-msgstr "Would you like to filter based on any dietary requirements?"
+msgstr ""
 
 msgid "prompt-search-button"
 msgstr "Find recipes!"
