@@ -73,11 +73,6 @@ msgstr "shortest time to make"
 msgid "sort-selection-label"
 msgstr "Recipe sort selection"
 
-msgid "prompt-welcome"
-msgstr ""
-"Welcome to <strong><em>RecipeRadar</em></strong>, the free recipe search "
-"engine and meal planner."
-
 msgid "prompt-additional-options"
 msgstr "Additional search options"
 
