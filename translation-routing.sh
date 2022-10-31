@@ -48,7 +48,7 @@ do
     echo "Translating ${CATEGORY}"
 
     translate ${CATEGORY} "en" "" "en"
-    translate ${CATEGORY} "en" "en-es" "es"
+    translate ${CATEGORY} "en" "eng-spa" "es"
     translate ${CATEGORY} "es" "es-fr" "fr"
     translate ${CATEGORY} "es" "spa-ita" "it"
 done
