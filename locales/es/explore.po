@@ -10,8 +10,8 @@ msgstr ""
 
 msgid "prompt-get-started"
 msgstr ""
-"Golpe correcto de añadir ingredientes te gustaría utilizar, y el golpe dejó para excluir "
-"ingredientes."
+"Golpe correcto de añadir ingredientes te gustaría utilizar, y el golpe dejó "
+"para excluir ingredientes."
 
 msgid "prompt-explore-button"
 msgstr "Vale, dejado es empieza!"

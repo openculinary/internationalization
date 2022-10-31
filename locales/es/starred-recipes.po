@@ -13,4 +13,5 @@ msgstr "No tienes cualquiera protagonizó recetas en el momento."
 
 msgid "feature-introduction"
 msgstr ""
-"Recetas  protagonizas en <a href='#search'>resultados</a> de búsqueda aparecerán aquí."
+"Recetas  protagonizas en <a href='#search'>resultados</a> de búsqueda "
+"aparecerán aquí."

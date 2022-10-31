@@ -19,13 +19,14 @@ msgstr "Direcciones"
 
 msgid "refinement-empty-query"
 msgstr ""
-"No recibimos cualesquier opciones de búsqueda de ti, así que  estamos mostrándote un "
-"ranking de mejores-valoró recetas."
+"No recibimos cualesquier opciones de búsqueda de ti, así que  estamos "
+"mostrándote un ranking de mejores-valoró recetas."
 
 msgid "refinement-partial-results"
 msgstr ""
-"No muchos resulta aquello utiliza todos vuestros ingredientes estuvieron encontrados, partidos tan "
-"parciales han sido incluidos en vuestros resultados de búsqueda"
+"No muchos resulta aquello utiliza todos vuestros ingredientes estuvieron "
+"encontrados, partidos tan parciales han sido incluidos en vuestros "
+"resultados de búsqueda"
 
 msgid "sort-relevance"
 msgstr "La mayoría de ingredientes utilizaron"
