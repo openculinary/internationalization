@@ -25,18 +25,14 @@ function translate {
     SRC_FILE="locales/${SRC_DIR}/${CATEGORY}.po"
     DST_FILE="locales/translations/${DST_DIR}/${CATEGORY}.po"
 
-    TRANSLATE_CMD="apertium -- ${LANG_PAIR} -f html-noent -u"
+    TRANSLATE_CMD="pomtrans ${LANG_PAIR} -p ${DST_FILE}:${SRC_FILE} apertium ${DST_FILE}"
     if [ -z "${LANG_PAIR}" ]; then
         SRC_FILE="locales/templates/${CATEGORY}.pot"
-        TRANSLATE_CMD="cat --"
+        TRANSLATE_CMD="cat ${SRC_FILE} > ${DST_FILE}"
     fi
 
-    # Workaround for https://github.com/openculinary/internationalization/issues/5
-    INSERT_TAG_OPEN='s/^msgstr/<\nmsgstr/g'
-    REMOVE_TAG_OPEN='/^<$/d'
-
     mkdir -p "locales/translations/${DST_DIR}"
-    cat ${SRC_FILE} | sed -e ${INSERT_TAG_OPEN} | pospell -n - -f -p ${TRANSLATE_CMD} | sed -e ${REMOVE_TAG_OPEN} > ${DST_FILE}
+    eval ${TRANSLATE_CMD}
 
     correct ${CATEGORY} ${DST_DIR}
 }
@@ -48,7 +44,7 @@ do
     echo "Translating ${CATEGORY}"
 
     translate ${CATEGORY} "en" "" "en"
-    translate ${CATEGORY} "en" "eng-spa" "es"
-    translate ${CATEGORY} "es" "es-fr" "fr"
-    translate ${CATEGORY} "es" "spa-ita" "it"
+    translate ${CATEGORY} "en" "-s eng -t spa" "es"
+    translate ${CATEGORY} "es" "-s es -t fr" "fr"
+    translate ${CATEGORY} "es" "-s spa -t ita" "it"
 done
