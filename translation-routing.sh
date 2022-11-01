@@ -15,6 +15,16 @@ function correct {
     pomerge -t ${INPUT_FILE} -i ${CORRECTIONS_FILE} -o ${OUTPUT_FILE}
 }
 
+function validate {
+    CATEGORY=$1
+    DST_DIR=$2
+
+    TEMPLATE_FILE="locales/templates/${CATEGORY}.pot"
+    DST_FILE="locales/translations/${DST_DIR}/${CATEGORY}.po"
+
+    pomerge -t ${TEMPLATE_FILE} -i ${DST_FILE} -o /dev/null
+}
+
 function translate {
     CATEGORY=$1
     SRC_DIR=$2
@@ -31,6 +41,7 @@ function translate {
     fi
 
     correct ${CATEGORY} ${DST_DIR}
+    validate ${CATEGORY} ${DST_DIR}
 }
 
 TEMPLATE_DIR="locales/templates"
