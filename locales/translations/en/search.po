@@ -1,51 +1,55 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"mime-version: 1.0\n"
+"POT-Creation-Date: 2020-10-27T11:36:02.326Z\n"
+"PO-Revision-Date: 2020-05-19 18:45+0100\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2020-10-27T11:36:02.326Z\n"
-"PO-Revision-Date: 2022-08-18T12:54:03.421Z\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"mime-version: 1.0\n"
 
 msgid "result-add-recipe"
-msgstr ""
+msgstr "Add to meal planner"
 
 msgid "result-tab-ingredients"
-msgstr ""
+msgstr "Ingredients"
 
 msgid "result-tab-directions"
-msgstr ""
+msgstr "Directions"
 
 msgid "refinement-empty-query"
 msgstr ""
+"We didn't receive any search options from you, so we're showing you a "
+"ranking of best-rated recipes."
 
 msgid "refinement-partial-results"
 msgstr ""
+"Not many results that use all your ingredients were found, so partial "
+"matches have been included in your search results"
 
 msgid "sort-relevance"
-msgstr ""
+msgstr "most ingredients used"
 
 msgid "sort-ingredients"
-msgstr ""
+msgstr "fewest extras required"
 
 msgid "sort-duration"
-msgstr ""
+msgstr "shortest time to make"
 
 msgid "sort-selection-prompt"
-msgstr ""
+msgstr "Order by"
 
 msgid "prompt-get-started"
-msgstr ""
+msgstr "To begin, enter the ingredients you have nearby."
 
 msgid "prompt-exclude"
-msgstr ""
+msgstr "Are there any ingredients that are <strong>not</strong> available?"
 
 msgid "prompt-equipment"
-msgstr ""
+msgstr "Is there any kitchen equipment you'd like to use?"
 
 msgid "prompt-dietary-properties"
-msgstr ""
+msgstr "Would you like to filter based on any dietary requirements?"
 
 msgid "prompt-search-button"
-msgstr ""
+msgstr "Find recipes!"

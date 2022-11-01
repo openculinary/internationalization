@@ -8,45 +8,61 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "mime-version: 1.0\n"
 
+#, fuzzy
 msgid "result-add-recipe"
 msgstr "Il ajoute à repas planner"
 
+#, fuzzy
 msgid "result-tab-ingredients"
 msgstr "Ingrédients"
 
+#, fuzzy
 msgid "result-tab-directions"
 msgstr "Directions"
 
+#, fuzzy
 msgid "refinement-empty-query"
 msgstr ""
-"nous ne recevons pas n'importe quelles options de recherche de toi, donc  nous sommes en train de te montrer un "
-"classement de meilleurs-il a estimé des recettes."
+"nous ne recevons pas n'importe quelles options de recherche de toi, donc  "
+"nous sommes en train de te montrer un classement de meilleurs-il a estimé "
+"des recettes."
 
+#, fuzzy
 msgid "refinement-partial-results"
 msgstr ""
-"Ne beaucoup d'il résulte cela il utilise tous vos ingrédients ils ont été trouvés, partis tellement "
-"partiels ont été compris dans vos résultats de recherche"
+"Ne beaucoup d'il résulte cela il utilise tous vos ingrédients ils ont été "
+"trouvés, partis tellement partiels ont été compris dans vos résultats de "
+"recherche"
 
+#, fuzzy
 msgid "sort-relevance"
 msgstr "La plupart d'ingrédients ils ont utilisé"
 
+#, fuzzy
 msgid "sort-ingredients"
 msgstr "fewest Les extras ont requis"
 
+#, fuzzy
 msgid "sort-duration"
 msgstr "Temps plus court pour faire"
 
+#, fuzzy
 msgid "sort-selection-prompt"
 msgstr "Mandat par"
 
+#, fuzzy
 msgid "prompt-get-started"
 msgstr "Pour commencer, introduire les ingrédients  tu as proche."
 
 msgid "prompt-exclude"
 msgstr "Y a-t-il des ingrédients qui <strong>ne sont pas</strong> disponibles?"
 
+#, fuzzy
 msgid "prompt-equipment"
 msgstr "Il est là n'importe quel équipement de cuisine te plairait utiliser?"
+
+msgid "prompt-dietary-properties"
+msgstr ""
 
 msgid "prompt-search-button"
 msgstr "Trouver des recettes!"

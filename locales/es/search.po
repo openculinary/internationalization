@@ -49,5 +49,8 @@ msgstr "¿Hay algún ingrediente que no esté disponible?"
 msgid "prompt-equipment"
 msgstr "Es allí cualquier equipamiento de cocina te gustaría utilizar?"
 
+msgid "prompt-dietary-properties"
+msgstr ""
+
 msgid "prompt-search-button"
 msgstr "Encuentra recetas!"
