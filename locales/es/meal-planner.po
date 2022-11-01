@@ -8,9 +8,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "mime-version: 1.0\n"
 
+#, fuzzy
 msgid "hint-drag"
 msgstr "Pista: Arrastra recetas para planificarles durante la semana"
 
+#, fuzzy
 msgid "empty-meal-planner"
 msgstr "No tienes cualesquier recetas en vuestra comida planner en el momento."
 

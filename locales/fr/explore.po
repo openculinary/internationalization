@@ -10,8 +10,8 @@ msgstr ""
 
 msgid "prompt-get-started"
 msgstr ""
-"Coup correct d'ajouter ingrédients te plairait utiliser, et le coup a laissé pour exclure "
-"ingrédients."
+"Coup correct d'ajouter ingrédients te plairait utiliser, et le coup a laissé "
+"pour exclure ingrédients."
 
 msgid "prompt-explore-button"
 msgstr "Bon, laissé est il commence!"

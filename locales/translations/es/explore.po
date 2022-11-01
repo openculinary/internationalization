@@ -8,10 +8,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "mime-version: 1.0\n"
 
+#, fuzzy
 msgid "prompt-get-started"
 msgstr ""
-"Golpe correcto de añadir ingredientes te gustaría utilizar, y el golpe dejó para excluir "
-"ingredientes."
+"Golpe derecho de añadir ingredientes te gustaría utilizar, y el golpe dejó "
+"para excluir ingredientes."
 
+#, fuzzy
 msgid "prompt-explore-button"
 msgstr "Vale, dejado es empieza!"

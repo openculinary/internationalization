@@ -1,30 +1,30 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2020-05-18T11:58:49.043Z\n"
+"PO-Revision-Date: 2020-05-18T18:58:49.043Z\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2020-05-18T11:58:49.043Z\n"
-"PO-Revision-Date: 2020-05-18T11:58:49.043Z\n"
 
 msgid "bakery"
-msgstr ""
+msgstr "Bakery"
 
 msgid "dairy"
-msgstr ""
+msgstr "Dairy"
 
 msgid "dry_goods"
-msgstr ""
+msgstr "Dry Goods"
 
 msgid "fruit_and_veg"
-msgstr ""
+msgstr "Fruit & Vegetables"
 
 msgid "meat_and_deli"
-msgstr ""
+msgstr "Meat & Delicatessen"
 
 msgid "null"
-msgstr ""
+msgstr "Other"
 
 msgid "oil_and_vinegar_and_condiments"
-msgstr ""
+msgstr "Oil Vinegar and Condiments"

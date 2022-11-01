@@ -12,7 +12,9 @@ msgid "hint-drag"
 msgstr "Piste: il Traîne des recettes pour leur planifier pendant la semaine"
 
 msgid "empty-meal-planner"
-msgstr "tu n'as pas n'importe quelles recettes dans votre repas planner dans le moment."
+msgstr ""
+"tu n'as pas n'importe quelles recettes dans votre repas planner dans le "
+"moment."
 
 msgid "feature-introduction"
 msgstr ""

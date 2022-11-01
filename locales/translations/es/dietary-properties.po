@@ -8,14 +8,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
+#, fuzzy
 msgid "is_dairy_free"
 msgstr "Lácteo-libre"
 
+#, fuzzy
 msgid "is_gluten_free"
 msgstr "Gluten-libre"
 
+#, fuzzy
 msgid "is_vegan"
 msgstr "Vegano"
 
+#, fuzzy
 msgid "is_vegetarian"
 msgstr "Vegetariano"
