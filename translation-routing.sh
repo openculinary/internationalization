@@ -4,16 +4,25 @@ function correct {
     CATEGORY=$1
     DST_DIR=$2
 
-    TEMPLATE_FILE="locales/translations/${DST_DIR}/${CATEGORY}.po"
+    INPUT_FILE="locales/translations/${DST_DIR}/${CATEGORY}.po"
     CORRECTIONS_FILE="locales/corrections/${DST_DIR}/${CATEGORY}.po"
-    OUTPUT_FILE="locales/${DST_DIR}/${CATEGORY}.po"
+    OUTPUT_FILE="locales/translations/${DST_DIR}/${CATEGORY}.po"
 
     if [ ! -f ${CORRECTIONS_FILE} ]; then
-        cp ${TEMPLATE_FILE} ${OUTPUT_FILE}
         return
     fi
 
-    pomerge -t ${TEMPLATE_FILE} -i ${CORRECTIONS_FILE} -o ${OUTPUT_FILE}
+    pomerge -t ${INPUT_FILE} -i ${CORRECTIONS_FILE} -o ${OUTPUT_FILE}
+}
+
+function validate {
+    CATEGORY=$1
+    DST_DIR=$2
+
+    TEMPLATE_FILE="locales/templates/${CATEGORY}.pot"
+    DST_FILE="locales/translations/${DST_DIR}/${CATEGORY}.po"
+
+    pomerge -t ${TEMPLATE_FILE} -i ${DST_FILE} -o /dev/null
 }
 
 function translate {
@@ -22,23 +31,17 @@ function translate {
     LANG_PAIR=$3
     DST_DIR=$4
 
-    SRC_FILE="locales/${SRC_DIR}/${CATEGORY}.po"
+    SRC_FILE="locales/translations/${SRC_DIR}/${CATEGORY}.po"
     DST_FILE="locales/translations/${DST_DIR}/${CATEGORY}.po"
 
-    TRANSLATE_CMD="apertium -- ${LANG_PAIR} -f html-noent -u"
-    if [ -z "${LANG_PAIR}" ]; then
-        SRC_FILE="locales/templates/${CATEGORY}.pot"
-        TRANSLATE_CMD="cat --"
+    mkdir -p "locales/translations/${DST_DIR}"
+    if [ -n "${LANG_PAIR}" ]; then
+        pomerge -t ${SRC_FILE} -i ${DST_FILE} -o ${DST_FILE}
+        pomtrans ${LANG_PAIR} -p ${DST_FILE}:${SRC_FILE} apertium ${DST_FILE}
     fi
 
-    # Workaround for https://github.com/openculinary/internationalization/issues/5
-    INSERT_TAG_OPEN='s/^msgstr/<\nmsgstr/g'
-    REMOVE_TAG_OPEN='/^<$/d'
-
-    mkdir -p "locales/translations/${DST_DIR}"
-    cat ${SRC_FILE} | sed -e ${INSERT_TAG_OPEN} | pospell -n - -f -p ${TRANSLATE_CMD} | sed -e ${REMOVE_TAG_OPEN} > ${DST_FILE}
-
     correct ${CATEGORY} ${DST_DIR}
+    validate ${CATEGORY} ${DST_DIR}
 }
 
 TEMPLATE_DIR="locales/templates"
@@ -48,7 +51,8 @@ do
     echo "Translating ${CATEGORY}"
 
     translate ${CATEGORY} "en" "" "en"
-    translate ${CATEGORY} "en" "en-es" "es"
-    translate ${CATEGORY} "es" "es-fr" "fr"
-    translate ${CATEGORY} "es" "spa-ita" "it"
+    translate ${CATEGORY} "en" "-s eng -t spa" "es"
+    translate ${CATEGORY} "es" "-s es -t fr" "fr"
+    translate ${CATEGORY} "es" "-s spa -t ita" "it"
+
 done

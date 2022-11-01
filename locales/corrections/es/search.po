@@ -1,8 +1,2 @@
-msgid "prompt-welcome"
-msgstr "Bienvenido a <strong><em>RecipeRadar</em></strong>, el buscador de receta libre y comida planner."
-
 msgid "prompt-exclude"
 msgstr "¿Hay algún ingrediente que no esté disponible?"
-
-msgid "refinement-ingredient-removed"
-msgstr "Ingrediente '{{product}}' no emparejó cualesquier recetas y ha sido sacado de la búsqueda."

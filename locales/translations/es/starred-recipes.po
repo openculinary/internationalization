@@ -8,9 +8,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
+#, fuzzy
 msgid "empty-recipes"
 msgstr "No tienes cualquiera protagonizó recetas en el momento."
 
+#, fuzzy
 msgid "feature-introduction"
 msgstr ""
-"Recetas  protagonizas en <a href='#search'>resultados</a> de búsqueda aparecerán aquí."
+"Recetas  protagonizas en resultados de <a href=\"#search\">búsqueda</a> "
+"parecerán aquí."

@@ -24,7 +24,7 @@ msgid "meat_and_deli"
 msgstr "Charcutería & di carne"
 
 msgid "null"
-msgstr "Un altro"
+msgstr "Altro"
 
 msgid "oil_and_vinegar_and_condiments"
 msgstr "Aceto di olio e Condimenti"
