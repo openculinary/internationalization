@@ -1,2 +1,0 @@
-msgid "prompt-exclude"
-msgstr "¿Hay algún ingrediente que no esté disponible?"

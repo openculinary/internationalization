@@ -8,22 +8,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "mime-version: 1.0\n"
 
-#, fuzzy
 msgid "search"
 msgstr "Búsqueda de receta"
 
-#, fuzzy
 msgid "explore"
 msgstr "Explorador de receta"
 
-#, fuzzy
 msgid "starred"
 msgstr "Protagonizó Recetas"
 
-#, fuzzy
 msgid "meal-planner"
 msgstr "Comida Planner"
 
-#, fuzzy
 msgid "shopping-list"
 msgstr "Lista de compra"

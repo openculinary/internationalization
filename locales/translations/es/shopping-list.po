@@ -8,6 +8,5 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "mime-version: 1.0\n"
 
-#, fuzzy
 msgid "hint-tap"
 msgstr "Pista: Grifo en ingredientes para marcarles tan encontrados"

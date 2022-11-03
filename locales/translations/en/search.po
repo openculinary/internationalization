@@ -43,7 +43,7 @@ msgid "prompt-get-started"
 msgstr "To begin, enter the ingredients you have nearby."
 
 msgid "prompt-exclude"
-msgstr "Are there any ingredients that are <strong>not</strong> available?"
+msgstr "Are there ingredients you do <strong>not</strong> want to cook with?"
 
 msgid "prompt-equipment"
 msgstr "Is there any kitchen equipment you'd like to use?"

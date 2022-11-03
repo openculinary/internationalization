@@ -8,30 +8,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#, fuzzy
 msgid "bakery"
 msgstr "Panadería"
 
-#, fuzzy
 msgid "dairy"
 msgstr "Lácteo"
 
-#, fuzzy
 msgid "dry_goods"
 msgstr "Bienes secos"
 
-#, fuzzy
 msgid "fruit_and_veg"
 msgstr "Vegetales &amp; de fruta"
 
-#, fuzzy
 msgid "meat_and_deli"
 msgstr "Charcutería &amp; de carne"
 
-#, fuzzy
 msgid "null"
 msgstr "Otro"
 
-#, fuzzy
 msgid "oil_and_vinegar_and_condiments"
 msgstr "Vinagre de óleo y Condimentos"

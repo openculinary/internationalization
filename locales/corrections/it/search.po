@@ -1,5 +1,2 @@
 msgid "prompt-get-started"
 msgstr "Per iniziare, introdurre gli ingredienti  hai vicino."
-
-msgid "prompt-exclude"
-msgstr "Ci sono degli ingredienti che <strong>non sono</strong> disponibili?"

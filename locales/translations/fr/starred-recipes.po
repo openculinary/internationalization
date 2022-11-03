@@ -15,5 +15,5 @@ msgstr ""
 
 msgid "feature-introduction"
 msgstr ""
-"Recettes  tu joues le rôle principal en <a href='#search'>des résultats</a> "
-"de recherche apparaîtront ici."
+"Recettes  tu joues le rôle principal en des résultats de <a "
+"href=\"#search\">recherche</a> sembleront ici."

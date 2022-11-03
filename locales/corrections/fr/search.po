@@ -1,5 +1,2 @@
-msgid "prompt-exclude"
-msgstr "Y a-t-il des ingrédients qui <strong>ne sont pas</strong> disponibles?"
-
 msgid "prompt-search-button"
 msgstr "Trouver des recettes!"

@@ -10,8 +10,8 @@ msgstr ""
 
 msgid "prompt-get-started"
 msgstr ""
-"Colpo corretto di aggiungere ingredienti ti piacerebbe utilizzare, e il "
-"colpo ha lasciato partorisca escludere ingredienti."
+"Colpo diritto d'aggiungere ingredienti ti piacerebbe utilizzare, e il colpo "
+"ha lasciato partorisca escludere ingredienti."
 
 msgid "prompt-explore-button"
 msgstr "Va bene, lasciato è inizia!"
