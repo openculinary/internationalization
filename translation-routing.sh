@@ -37,7 +37,7 @@ function translate {
     mkdir -p "locales/translations/${DST_DIR}"
     if [ -n "${LANG_PAIR}" ]; then
         pomerge -t ${SRC_FILE} -i ${DST_FILE} -o ${DST_FILE}
-        pomtrans ${LANG_PAIR} -p ${DST_FILE}:${SRC_FILE} apertium ${DST_FILE}
+        pomtrans ${LANG_PAIR} -p ${DST_FILE}:${SRC_FILE} --no-fuzzy-flag apertium ${DST_FILE}
     fi
 
     correct ${CATEGORY} ${DST_DIR}
