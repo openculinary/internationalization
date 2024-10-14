@@ -5,16 +5,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2020-10-27T11:36:02.326Z\n"
-"PO-Revision-Date: 2022-08-18T12:54:03.421Z\n"
+"POT-Creation-Date: 2024-10-14T17:20:43.397Z\n"
+"PO-Revision-Date: 2024-10-14T17:20:43.397Z\n"
 
 msgid "result-add-recipe"
-msgstr ""
-
-msgid "result-tab-ingredients"
-msgstr ""
-
-msgid "result-tab-directions"
 msgstr ""
 
 msgid "refinement-empty-query"
