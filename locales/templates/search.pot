@@ -17,6 +17,9 @@ msgstr ""
 msgid "refinement-partial-results"
 msgstr ""
 
+msgid "refinement-equipment-search-unavailable"
+msgstr ""
+
 msgid "sort-relevance"
 msgstr ""
 
