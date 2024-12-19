@@ -28,6 +28,11 @@ msgstr ""
 "ritrovati, partite così parziali sono stati inclusi nei vostri risultati di "
 "ricerca"
 
+msgid "refinement-equipment-search-unavailable"
+msgstr ""
+"Ricerca d'attrezzatura è attualmente disponibile.  Utilizzando ingrediente e "
+"ricerca di requisito dietético soltanto."
+
 msgid "sort-relevance"
 msgstr "La maggioranza d'ingredienti hanno utilizzato"
 

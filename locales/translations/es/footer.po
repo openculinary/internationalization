@@ -10,6 +10,5 @@ msgstr ""
 
 msgid "source-code"
 msgstr ""
-"<a href=\"https://www.github.com/openculinary\">Código</a> de <a href=\"https"
-"://www.github.com/openculinary\">fuente</a> disponible bajo el <a href"
-"=\"#about-license\">AGPLv3 licencia</a>"
+"<a href='https://www.github.com/openculinary'>Código de fuente</a> "
+"disponible bajo el <a href='#about-license'>AGPLv3 licencia</a>"

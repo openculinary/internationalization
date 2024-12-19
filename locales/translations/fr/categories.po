@@ -18,10 +18,10 @@ msgid "dry_goods"
 msgstr "Biens secs"
 
 msgid "fruit_and_veg"
-msgstr "Végétaux &amp; de fruit"
+msgstr "Végétaux & de fruit"
 
 msgid "meat_and_deli"
-msgstr "Charcutería &amp; De viande"
+msgstr "Charcutería & De viande"
 
 msgid "null"
 msgstr "Autrui"

@@ -29,6 +29,11 @@ msgstr ""
 "trouvés, partis tellement partiels ont été compris dans vos résultats de "
 "recherche"
 
+msgid "refinement-equipment-search-unavailable"
+msgstr ""
+"Recherche d'équipement est actuellement disponible.  En utilisant ingrédient "
+"et recherche de condition requise dietético seulement."
+
 msgid "sort-relevance"
 msgstr "La plupart d'ingrédients ils ont utilisé"
 
@@ -46,7 +51,7 @@ msgstr "Pour commencer, introduire les ingrédients  tu as proche."
 
 msgid "prompt-exclude"
 msgstr ""
-"Il est là des ingrédients   tu <strong>ne</strong> veux pas cuisinier avec?"
+"Il est là des ingrédients   <strong>tu</strong> ne veux pas cuisinier avec?"
 
 msgid "prompt-equipment"
 msgstr "Il est là n'importe quel équipement de cuisine te plairait utiliser?"

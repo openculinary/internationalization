@@ -27,6 +27,11 @@ msgstr ""
 "Not many results that use all your ingredients were found, so partial "
 "matches have been included in your search results"
 
+msgid "refinement-equipment-search-unavailable"
+msgstr ""
+"Equipment search is currently available.  Using ingredient and dietary "
+"requirement search only."
+
 msgid "sort-relevance"
 msgstr "most ingredients used"
 
