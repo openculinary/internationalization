@@ -5,8 +5,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2024-10-14T17:20:43.397Z\n"
-"PO-Revision-Date: 2024-10-14T17:20:43.397Z\n"
+"POT-Creation-Date: 2025-02-11T15:14:36.200Z\n"
+"PO-Revision-Date: 2025-02-11T15:14:36.200Z\n"
+
+msgid "result-report-problem"
+msgstr ""
 
 msgid "result-add-recipe"
 msgstr ""
@@ -38,11 +41,9 @@ msgstr ""
 msgid "prompt-exclude"
 msgstr ""
 
-msgid "prompt-equipment"
-msgstr ""
-
 msgid "prompt-dietary-properties"
 msgstr ""
 
 msgid "prompt-search-button"
 msgstr ""
+
