@@ -6,7 +6,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "POT-Creation-Date: 2025-02-14T14:30:36.949Z\n"
-"PO-Revision-Date: 2025-02-25T15:01:27.668Z\n"
+"PO-Revision-Date: 2025-02-25T19:47:03.473Z\n"
 
 msgid "menu-text-removal-request"
 msgstr ""
@@ -54,4 +54,16 @@ msgid "placeholder-correction-found-content"
 msgstr ""
 
 msgid "submit-correction"
+msgstr ""
+
+msgid "report-status-success-title"
+msgstr ""
+
+msgid "report-status-success-message"
+msgstr ""
+
+msgid "report-status-failure-title"
+msgstr ""
+
+msgid "report-status-failure-message"
 msgstr ""

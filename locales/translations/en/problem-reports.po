@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
 "POT-Creation-Date: 2025-02-14T14:40:26.919Z\n"
-"PO-Revision-Date: 2025-02-25T16:27:16.505Z\n"
+"PO-Revision-Date: 2025-02-25T19:47:03.473Z\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -55,3 +55,15 @@ msgstr "Found: one small onion"
 
 msgid "submit-correction"
 msgstr "Send correction"
+
+msgid "report-status-success-title"
+msgstr "Report received"
+
+msgid "report-status-success-message"
+msgstr "Thank you; your report has been received"
+
+msgid "report-status-failure-title"
+msgstr "Report failed"
+
+msgid "report-status-failure-message"
+msgstr "Sorry; your report could not be sent.  Please try again later."
