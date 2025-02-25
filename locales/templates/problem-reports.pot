@@ -6,7 +6,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "POT-Creation-Date: 2025-02-14T14:30:36.949Z\n"
-"PO-Revision-Date: 2025-02-14T14:30:36.949Z\n"
+"PO-Revision-Date: 2025-02-25T15:01:27.668Z\n"
 
 msgid "menu-text-removal-request"
 msgstr ""
@@ -26,10 +26,25 @@ msgstr ""
 msgid "nav-text-correction"
 msgstr ""
 
+msgid "content-owner-email-label"
+msgstr ""
+
+msgid "content-reuse-policy-label"
+msgstr ""
+
+msgid "content-noindex-directive-label"
+msgstr ""
+
 msgid "submit-removal-request"
 msgstr ""
 
 msgid "submit-unsafe-content-notification"
+msgstr ""
+
+msgid "content-expected-label"
+msgstr ""
+
+msgid "content-found-label"
 msgstr ""
 
 msgid "placeholder-correction-expected-content"

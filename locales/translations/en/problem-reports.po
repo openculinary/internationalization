@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
 "POT-Creation-Date: 2025-02-14T14:40:26.919Z\n"
-"PO-Revision-Date: 2025-02-14T14:40:26.919Z\n"
+"PO-Revision-Date: 2025-02-25T15:01:27.668Z\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -26,11 +26,26 @@ msgstr "Unsafe Content"
 msgid "nav-text-correction"
 msgstr "Correction"
 
+msgid "content-owner-email-label"
+msgstr "Please provide an email address for us to contact you"
+
+msgid "content-reuse-policy-label"
+msgstr "If you have a content re-use policy, please provide the URL for it below"
+
+msgid "content-noindex-directive-label"
+msgstr "If the recipe page uses HTML noindex, please tick this checkbox"
+
 msgid "submit-removal-request"
 msgstr "Send request"
 
 msgid "submit-unsafe-content-notification"
 msgstr "Send notification"
+
+msgid "content-expected-label"
+msgstr "Please tell us what you expected to find in the recipe"
+
+msgid "content-found-label"
+msgstr "Please tell us what you actually found"
 
 msgid "placeholder-correction-expected-content"
 msgstr "Expected: three medium onions"
