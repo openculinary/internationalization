@@ -8,6 +8,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "mime-version: 1.0\n"
 
+msgid "result-report-problem"
+msgstr "Rapport un problème avec cette recette"
+
 msgid "result-add-recipe"
 msgstr "Il ajoute à repas planner"
 

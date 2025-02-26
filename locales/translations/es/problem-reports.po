@@ -9,61 +9,66 @@ msgstr ""
 "mime-version: 1.0\n"
 
 msgid "menu-text-removal-request"
-msgstr "Please exclude my recipe(s)"
+msgstr "Complacer excluir mi receta(s)"
 
 msgid "menu-text-unsafe-content"
-msgstr "Link contains unsafe content"
+msgstr "El enlace contiene unsafe contenido"
 
 msgid "menu-text-correction"
-msgstr "Offer a correction"
+msgstr "Oferta una corrección"
 
 msgid "nav-text-removal-request"
-msgstr "Removal Request"
+msgstr "Petición de traslado"
 
 msgid "nav-text-unsafe-content-notification"
-msgstr "Unsafe Content"
+msgstr "Unsafe Contenido"
 
 msgid "nav-text-correction"
-msgstr "Correction"
+msgstr "Corrección"
 
 msgid "content-owner-email-label"
-msgstr "Please provide an email address for us to contact you"
+msgstr ""
+"Complacer proporcionar una dirección de correo electrónico para nosotros "
+"para  contactarte"
 
 msgid "content-reuse-policy-label"
-msgstr "If you have a content re-use policy, please provide the URL"
+msgstr "Si  tienes un contenido re-póliza de uso, complacer proporcionar el URL"
 
 msgid "content-noindex-directive-label"
-msgstr "If the recipe page uses HTML noindex, please tick this checkbox"
+msgstr ""
+"Si los usos de página de la receta HTML noindex, complacer tick este checkbox"
 
 msgid "submit-removal-request"
-msgstr "Send request"
+msgstr "Envía petición"
 
 msgid "submit-unsafe-content-notification"
-msgstr "Send notification"
+msgstr "Envía notificación"
 
 msgid "content-expected-label"
-msgstr "Please tell us what you expected to find in the recipe"
+msgstr "Complacer decirnos qué  esperaste encontrar en la receta"
 
 msgid "content-found-label"
-msgstr "Please tell us what you actually found"
+msgstr "Complacer decirnos qué tú de hecho encontrado"
 
 msgid "placeholder-correction-expected-content"
-msgstr "Expected: three medium onions"
+msgstr "Esperado: tres cebollas de medio"
 
 msgid "placeholder-correction-found-content"
-msgstr "Found: one small onion"
+msgstr "Encontrado: uno cebolla pequeña"
 
 msgid "submit-correction"
-msgstr "Send correction"
+msgstr "Envía corrección"
 
 msgid "report-status-success-title"
-msgstr "Report received"
+msgstr "El informe recibió"
 
 msgid "report-status-success-message"
-msgstr "Thank you; your report has been received"
+msgstr "Gracias; Vuestro informe ha sido recibido"
 
 msgid "report-status-failure-title"
-msgstr "Report failed"
+msgstr "El informe falló"
 
 msgid "report-status-failure-message"
-msgstr "Sorry; your report could not be sent.  Please try again later."
+msgstr ""
+"Triste; vuestro informe no podría ser enviado.  Complacer probar otra vez "
+"más tarde."
