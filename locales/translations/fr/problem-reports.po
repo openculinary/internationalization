@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2025-02-14T14:40:26.919Z\n"
+"PO-Revision-Date: 2025-02-14T14:35:27.683Z\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"mime-version: 1.0\n"
+
+msgid "menu-text-removal-request"
+msgstr "Complaire exclure ma recette(s)"
+
+msgid "menu-text-unsafe-content"
+msgstr "L'il raccorde il contient unsafe contenu"
+
+msgid "menu-text-correction"
+msgstr "Il offre une correction"
+
+msgid "nav-text-removal-request"
+msgstr "Demande de déplacement"
+
+msgid "nav-text-unsafe-content-notification"
+msgstr "Unsafe Contenu"
+
+msgid "nav-text-correction"
+msgstr "Correction"
+
+msgid "content-owner-email-label"
+msgstr ""
+"Complaire fournir une direction de courrier électronique pour nous pour  te "
+"contacter"
+
+msgid "content-reuse-policy-label"
+msgstr "Si  tu as un contenu ré-police d'usage, complaire fournir l'URL"
+
+msgid "content-noindex-directive-label"
+msgstr ""
+"Si les usages de page de la recette HTML noindex, complaire tick ce checkbox"
+
+msgid "submit-removal-request"
+msgstr "Il envoie demande"
+
+msgid "submit-unsafe-content-notification"
+msgstr "Il envoie faire-part"
+
+msgid "content-expected-label"
+msgstr ""
+"Complaire nous dire qu'est-ce que  tu as attendu trouver dans la recette"
+
+msgid "content-found-label"
+msgstr "Complaire nous dire qu'est-ce que tu en fait trouvé"
+
+msgid "placeholder-correction-expected-content"
+msgstr "Attendu: trois oignons de moyen"
+
+msgid "placeholder-correction-found-content"
+msgstr "Trouvé: un oignon petit"
+
+msgid "submit-correction"
+msgstr "Il envoie correction"
+
+msgid "report-status-success-title"
+msgstr "Le rapport a reçu"
+
+msgid "report-status-success-message"
+msgstr "Grâces; Votre rapport a été reçu"
+
+msgid "report-status-failure-title"
+msgstr "Le rapport a failli"
+
+msgid "report-status-failure-message"
+msgstr ""
+"Triste; votre rapport ne pourrait pas être envoyé.  Complaire essayer une "
+"autre fois plus soir."

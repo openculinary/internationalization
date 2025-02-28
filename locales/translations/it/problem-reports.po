@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2025-02-14T14:40:26.919Z\n"
+"PO-Revision-Date: 2025-02-14T14:35:27.683Z\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"mime-version: 1.0\n"
+
+msgid "menu-text-removal-request"
+msgstr "Compiacere escludere la mia ricetta(s)"
+
+msgid "menu-text-unsafe-content"
+msgstr "Il link contiene unsafe contenuto"
+
+msgid "menu-text-correction"
+msgstr "Offerta una correzione"
+
+msgid "nav-text-removal-request"
+msgstr "Petizione di trasferimento"
+
+msgid "nav-text-unsafe-content-notification"
+msgstr "Unsafe Contenuto"
+
+msgid "nav-text-correction"
+msgstr "Correzione"
+
+msgid "content-owner-email-label"
+msgstr ""
+"Compiacere fornire un indirizzo di posta elettronica partorisca noi "
+"partorisca  contattarti"
+
+msgid "content-reuse-policy-label"
+msgstr "Se  hai un contenuto re-polizza d'uso, compiacere fornire l'URL"
+
+msgid "content-noindex-directive-label"
+msgstr ""
+"Se gli usi di pagina della ricetta HTML noindex, compiacere tick questo "
+"checkbox"
+
+msgid "submit-removal-request"
+msgstr "Invia petizione"
+
+msgid "submit-unsafe-content-notification"
+msgstr "Invia notifica"
+
+msgid "content-expected-label"
+msgstr "Compiacere dirci che  hai aspettato trovare nella ricetta"
+
+msgid "content-found-label"
+msgstr "Compiacere dirci che tu di fatto ritrovato"
+
+msgid "placeholder-correction-expected-content"
+msgstr "Aspettato: tre cipolle di mezzo"
+
+msgid "placeholder-correction-found-content"
+msgstr "Ritrovato: una cipolla piccola"
+
+msgid "submit-correction"
+msgstr "Invia correzione"
+
+msgid "report-status-success-title"
+msgstr "La relazione ha ricevuto"
+
+msgid "report-status-success-message"
+msgstr "Grazie; La vostra relazione è stata ricevuta"
+
+msgid "report-status-failure-title"
+msgstr "La relazione ha fallito"
+
+msgid "report-status-failure-message"
+msgstr ""
+"Triste; la vostra relazione non potrebbe essere inviato.  Compiacere provare "
+"un'altra volta più pomeriggio."

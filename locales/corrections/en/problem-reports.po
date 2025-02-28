@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2025-02-14T14:35:27.683Z\n"
+"PO-Revision-Date: 2025-02-14T14:35:27.683Z\n"
+"Last-Translator: James Addison <james@reciperadar.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3.1\n"
+
+msgid "menu-text-removal-request"
+msgstr "Please exclude my recipe(s)"
+
+msgid "menu-text-unsafe-content"
+msgstr "Link contains unsafe content"
+
+msgid "menu-text-correction"
+msgstr "Offer a correction"
+
+msgid "nav-text-removal-request"
+msgstr "Removal Request"
+
+msgid "nav-text-unsafe-content-notification"
+msgstr "Unsafe Content"
+
+msgid "nav-text-correction"
+msgstr "Correction"
+
+msgid "submit-removal-request"
+msgstr "Send request"
+
+msgid "submit-unsafe-content-notification"
+msgstr "Send notification"
+
+msgid "placeholder-correction-expected-content"
+msgstr "Expected: three medium onions"
+
+msgid "placeholder-correction-found-content"
+msgstr "Found: one small onion"
+
+msgid "submit-correction"
+msgstr "Send correction"
