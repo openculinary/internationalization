@@ -1,2 +1,2 @@
 msgid "source-code"
-msgstr "<a href='https://www.github.com/openculinary'>Codice di fonte</a> disponibile sotto <a href='#about-license'>l'AGPLv3 licenza</a>"
+msgstr "<a href='https://codeberg.org/openculinary'>Codice di fonte</a> disponibile sotto <a href='#about-license'>l'AGPLv3 licenza</a>"
